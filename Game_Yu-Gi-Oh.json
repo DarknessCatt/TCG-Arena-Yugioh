@@ -153,7 +153,7 @@
           "Spells 1": {
             "title": "Spells 1",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -163,12 +163,12 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Spells 2": {
             "title": "Spells 2",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -178,12 +178,12 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Spells 3": {
             "title": "Spells 3",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -193,12 +193,12 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Spells 4": {
             "title": "Spells 4",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -208,12 +208,12 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Spells 5": {
             "title": "Spells 5",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -223,7 +223,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Monsters 1": {
             "title": "Monsters 1",
@@ -234,7 +234,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Monster",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -249,7 +249,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Monster",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -264,7 +264,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Monster",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -279,7 +279,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Monster",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -294,7 +294,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Monster",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -309,7 +309,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Special",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -324,7 +324,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Field",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,

@@ -1,9 +1,10 @@
 {
   "name": "Yu-Gi-Oh",
-  "menuBackgroundImage": "https://static.actugaming.net/media/2024/10/yu-gi-oh-early-days-collection-banner-e1731661848641.jpg",
+  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Yugioh/banner.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://i.pinimg.com/736x/48/6e/a6/486ea66813711aa02d03b7621eff63a2.jpg"
+      "https://i.pinimg.com/736x/48/6e/a6/486ea66813711aa02d03b7621eff63a2.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/banner.jpg"
     ],
     "decksUrl": ""
   },

@@ -67,12 +67,12 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "column",
               "style": {
-                "width": "30vh"
+                "width": "30vh",
               },
               "content": [
                 {
@@ -88,7 +88,10 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "marginRight": "5vh",
+                "marginLeft": "5vh"
+              },
               "content": [
                 {
                   "direction": "row",
@@ -420,7 +423,7 @@
           "Field": {
             "title": "Field",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,

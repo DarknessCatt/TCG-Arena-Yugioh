@@ -75,12 +75,12 @@
               "direction": "column",
               "style": {
                 "width": "32vh",
-                "marginRight": "8vh",
-                "justifyContent": "start"
+                "marginRight": "8vh"
               },
               "content": [
                 {
                   "direction": "row",
+                  "isSymetricalForOpponents": true,
                   "style": false,
                   "content": [
                     {

@@ -1,14 +1,17 @@
 {
   "name": "Yu-Gi-Oh",
-  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Yugioh/banner.jpg",
+  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Yugioh/Images/banner.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://i.pinimg.com/736x/48/6e/a6/486ea66813711aa02d03b7621eff63a2.jpg",
-      "https://valcur.github.io/TCG-Arena-Yugioh/banner.jpg"
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/1.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/2.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/3.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/4.jpg",
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/5.jpg"
     ],
     "decksUrl": "https://valcur.github.io/TCG-Arena-Yugioh/Yu-Gi-OhDecks.json"
   },
-  "customHelp": "",
+  "customHelp": "Extra monsters are on the left as I'm missing place to put them on the front. To place a card faced down, drag the card and press Z key before dropping it to the desired location. Then click it to rotate it 90 degrees. Your extra deck is in your 'Removed hidden' section.",
   "cardRotation": 90,
   "cards": {
     "dataUrl": "https://valcur.github.io/TCG-Arena-Yugioh/YugiohCards.json",
@@ -35,7 +38,7 @@
       "mulligan": {
         "info": "",
         "startingHandSize": "5",
-        "drawNewHand": true,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },

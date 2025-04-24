@@ -9,6 +9,7 @@
     "decksUrl": "https://valcur.github.io/TCG-Arena-Yugioh/Yu-Gi-OhDecks.json"
   },
   "customHelp": "",
+  "cardRotation": 90,
   "cards": {
     "dataUrl": "https://valcur.github.io/TCG-Arena-Yugioh/YugiohCards.json",
     "cardBack": "https://static.wikia.nocookie.net/yugioh/images/9/95/SlifertheSkyDragon-GBI-AE-Back.png"
@@ -16,8 +17,8 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "rarity",
-      "race"
+      "archetype",
+      "level"
     ],
     "formats": [
       {
@@ -72,7 +73,8 @@
             {
               "direction": "column",
               "style": {
-                "width": "30vh"
+                "width": "30vh",
+                "marginRight": "5vh"
               },
               "content": [
                 {
@@ -88,10 +90,7 @@
             },
             {
               "direction": "column",
-              "style": {
-                "marginRight": "5vh",
-                "marginLeft": "5vh"
-              },
+              "style": false,
               "content": [
                 {
                   "direction": "row",

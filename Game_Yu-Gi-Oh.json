@@ -11,7 +11,7 @@
     ],
     "decksUrl": "https://valcur.github.io/TCG-Arena-Yugioh/Yu-Gi-OhDecks.json"
   },
-  "customHelp": "Extra monsters are on the left as I'm missing place to put them on the front. To place a card faced down, drag the card and press Z key before dropping it to the desired location. Then click it to rotate it 90 degrees. Your extra deck is in your 'Removed hidden' section.",
+  "customHelp": "Extra monsters are on the left as I'm missing place to put them on the front. To place a monster in defense faced down, drag the card and press Z key before dropping it to the desired location, then click it to rotate it 90 degrees. Your extra deck is in your 'Removed hidden' section.",
   "cardRotation": 90,
   "cards": {
     "dataUrl": "https://valcur.github.io/TCG-Arena-Yugioh/YugiohCards.json",
@@ -170,7 +170,10 @@
           "Extra deck->ExileHidden"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Trap": "Discard",
+          "Spell": "Discard"
+        },
         "sectionsDict": {
           "Spells_1": {
             "title": "Spells_1",
@@ -183,7 +186,7 @@
             "displayedTitle": "Spell/Trap",
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
@@ -198,7 +201,7 @@
             "displayedTitle": "Spell/Trap",
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
@@ -213,7 +216,7 @@
             "displayedTitle": "Spell/Trap",
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
@@ -228,7 +231,7 @@
             "displayedTitle": "Spell/Trap",
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
@@ -243,7 +246,7 @@
             "displayedTitle": "Spell/Trap",
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
@@ -259,7 +262,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Monsters_2": {
@@ -274,7 +277,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Monsters_3": {
@@ -289,7 +292,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Monsters_4": {
@@ -304,7 +307,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Monsters_5": {
@@ -319,7 +322,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Extra_Monster_1": {
@@ -334,7 +337,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Extra_Monster_2": {
@@ -349,7 +352,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Field": {
@@ -364,7 +367,7 @@
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }
         }

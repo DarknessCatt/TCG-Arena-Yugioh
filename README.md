@@ -1,6 +1,6 @@
 Data for playing Yugioh on TCG-Arena.fr
 
-To test update on the game data, make changes to Game_Yu-Gi-Oh-Testing.json.
+To test updates on the game data, make changes to Game_Yu-Gi-Oh-Testing.json.
 Changes pushed to the repo will be live on the app after a few minutes.
 
 To add the Yu-Gi-Oh test game to TCG Arena click this link

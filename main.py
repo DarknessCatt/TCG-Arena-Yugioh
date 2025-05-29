@@ -54,6 +54,9 @@ def encode_cards(cards):
                 new_card["def"] = card["def"]
                 new_card["level"] = card["level"]
                 new_card["attribute"] = card["attribute"]
+                
+            elif card_type == "Token":
+                new_card["isToken"] = True
             
             arena_json[new_card["id"]] = new_card
         except Exception as e:

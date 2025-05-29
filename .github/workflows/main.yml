@@ -18,15 +18,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests lxml  # Add any other dependencies you may need
+          pip install -r requirements.txt  # Add any other dependencies you may need
 
       - name: Run the script
         run: python main.py
 
       - name: Commit and push changes
         run: |
-          git config --local user.name "LunaticCat"
-          git add -f ygopro_cockatrice.xml
-          git add -f ygopro_cockatrice.zip
-          git commit -m "Update XML file" || echo "No changes to commit"
+          git config --local user.name "Matheus Lima Cunha"
+          git add -f YugiohCards.json
+          git commit -m "Update cards" || echo "No changes to commit"
           git push origin main

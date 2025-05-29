@@ -1,9 +1,9 @@
-name: Update XML File
+name: Update Card File
 
 on:  workflow_dispatch
 
 jobs:
-  update_xml:
+  update_cards:
     runs-on: ubuntu-latest
 
     steps:

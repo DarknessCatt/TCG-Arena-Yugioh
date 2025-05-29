@@ -17,46 +17,48 @@ def encode_cards(cards):
     arena_json = {}
     for card in cards:
         
-        card_type = "Monster"
-        if "spell" in card["type"].lower():
-            card_type = "Spell"
-        elif "trap" in card["type"].lower():
-            card_type = "Trap"
-        elif "skill" in card["type"].lower():
-            card_type = "Skill"
-        elif "token" in card["type"].lower():
-            card_type = "Token"
+        try:
+            card_type = "Monster"
+            if "spell" in card["type"].lower():
+                card_type = "Spell"
+            elif "trap" in card["type"].lower():
+                card_type = "Trap"
+            elif "skill" in card["type"].lower():
+                card_type = "Skill"
+            elif "token" in card["type"].lower():
+                card_type = "Token"
 
-        print(card["name"])
+            new_card = {
+                "id": card["id"],
+                "face": {
+                    "front": {
+                        "name": card["name"],
+                        "type": card_type,
+                        "cost": 0,
+                        "image": card["card_images"][0]["image_url"],
+                        "isHorizontal": False
+                    }
+                },
+                "name": card["name"],
+                "type": card_type,
+                "Type line": card["humanReadableCardType"],
+                "cost": 0
+            }
 
-        new_card = {
-            "id": card["id"],
-            "face": {
-                "front": {
-                    "name": card["name"],
-                    "type": card_type,
-                    "cost": 0,
-                    "image": card["card_images"][0]["image_url"],
-                    "isHorizontal": False
-                }
-            },
-            "name": card["name"],
-            "type": card_type,
-            "Type line": card["humanReadableCardType"],
-            "cost": 0
-        }
+            if "archetype" in card:
+                new_card["archetype"] = card["archetype"]
 
-        if "archetype" in card:
-            new_card["archetype"] = card["archetype"]
-
-        if card_type == "Monster":
-            new_card["race"] = card["race"]
-            new_card["atk"] = card["atk"]
-            new_card["def"] = card["def"]
-            new_card["level"] = card["level"]
-            new_card["attribute"] = card["attribute"]
-        
-        arena_json[new_card["id"]] = new_card
+            if card_type == "Monster":
+                new_card["race"] = card["race"]
+                new_card["atk"] = card["atk"]
+                new_card["def"] = card["def"]
+                new_card["level"] = card["level"]
+                new_card["attribute"] = card["attribute"]
+            
+            arena_json[new_card["id"]] = new_card
+        except Exception as e:
+            name = card["name"]
+            print(f"Exception while processing {name}: [{e}]")
 
     return arena_json
 

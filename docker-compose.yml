@@ -1,0 +1,8 @@
+services:
+  python:
+    build: ./
+    stdin_open: true
+    tty: true
+    command: python3 ./main.py --cli
+    volumes:
+      - ./:/usr/src/app

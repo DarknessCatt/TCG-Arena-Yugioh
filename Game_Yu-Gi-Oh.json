@@ -217,7 +217,7 @@
         "sectionsDict": {
           "Spells_1": {
             "title": "Spells_1",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -232,7 +232,7 @@
           },
           "Spells_2": {
             "title": "Spells_2",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -247,7 +247,7 @@
           },
           "Spells_3": {
             "title": "Spells_3",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -262,7 +262,7 @@
           },
           "Spells_4": {
             "title": "Spells_4",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -277,7 +277,7 @@
           },
           "Spells_5": {
             "title": "Spells_5",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,

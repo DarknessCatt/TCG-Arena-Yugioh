@@ -87,16 +87,8 @@
                   },
                   "content": [
                     {
-                      "section": "Empty",
-                      "style": {
-                        "visibility":"hidden"
-                      }
-                    },
-                    {
-                      "section": "Empty",
-                      "style": {
-                        "visibility":"hidden"
-                      }
+                      "section": "Field",
+                      "style": false
                     },
                     {
                       "section": "Extra_Monster_1",
@@ -113,12 +105,6 @@
                       "style": false
                     },
                     {
-                      "section": "Empty",
-                      "style": {
-                        "visibility":"hidden"
-                      }
-                    },
-                    {
                       "section": "Deck_Master",
                       "style": false
                     }
@@ -129,10 +115,6 @@
                   "direction": "row",
                   "style": false,
                   "content": [
-                    {
-                      "section": "Field",
-                      "style": false
-                    },
                     {
                       "section": "Monsters_1",
                       "style": false
@@ -152,12 +134,6 @@
                     {
                       "section": "Monsters_5",
                       "style": false
-                    },
-                    {
-                      "section": "Empty",
-                      "style": {
-                        "visibility":"hidden"
-                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -166,12 +142,6 @@
                   "direction": "row",
                   "style": false,
                   "content": [
-                    {
-                      "section": "Empty",
-                      "style": {
-                        "visibility":"hidden"
-                      }
-                    },
                     {
                       "section": "Spells_1",
                       "style": false
@@ -191,12 +161,6 @@
                     {
                       "section": "Spells_5",
                       "style": false
-                    },
-                    {
-                      "section": "Empty",
-                      "style": {
-                        "visibility":"hidden"
-                      }
                     }
                   ],
                   "isSymetricalForOpponents": false

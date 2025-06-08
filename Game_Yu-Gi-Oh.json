@@ -11,7 +11,7 @@
     ],
     "decksUrl": "https://darknesscatt.github.io/TCG-Arena-Yugioh/Yu-Gi-OhDecks.json"
   },
-  "customHelp": "Extra monsters are on the left as I'm missing place to put them on the front. To place a monster in defense faced down, drag the card and press Z key before dropping it to the desired location, then click it to rotate it 90 degrees. Your extra deck is in your 'Removed hidden' section.",
+  "customHelp": "For on how to use TCG Arena for Domain Format, please visit https://docs.google.com/document/d/1eULfdTbYX-XowcoXS2RyASvAO6k1XClKMLhGcfU1uZU/edit?usp=sharing",
   "cardRotation": 90,
   "cards": {
     "dataUrl": "https://darknesscatt.github.io/TCG-Arena-Yugioh/YugiohCards.json",

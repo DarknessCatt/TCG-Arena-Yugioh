@@ -1,374 +1,544 @@
 [
   {
-    "title": "Starter deck: Yugi",
-    "id": "Starter deck: Yugi",
-    "game": "Yu-Gi-Oh",
-    "format": "Classic",
-    "cardCount": 50,
-    "createdAt": "2025-04-21T14:01:10.188Z",
-    "lastModifiedAt": "2025-04-21T14:01:36.493Z",
+    "title": "UFO Turtle.",
+    "id": "42f33424-7066-4d28-8bbb-406fe964dbf9",
+    "game": "Yu-Gi-Oh (Domain Format)",
+    "format": "Domain Format",
+    "cardCount": 61,
+    "createdAt": "2025-06-08T15:04:39.636Z",
+    "lastModifiedAt": "2025-06-08T15:04:51.216Z",
     "deckList": {
       "categoriesOrder": [
+        "Deck Master",
+        "Monster",
         "Spell",
-        "Trap",
-        "Monster"
+        "Trap"
+      ],
+      "Sideboard": [
+        {
+          "id": 6602300,
+          "face": {
+            "front": {
+              "name": "Blaze Fenix, the Burning Bombardment Bird",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/6602300.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Blaze Fenix, the Burning Bombardment Bird",
+          "type": "Monster",
+          "Type line": "Fusion Effect Monster",
+          "cost": 0,
+          "race": "Pyro",
+          "atk": 2800,
+          "def": 2300,
+          "level": 8,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "0c958cb6-c9fa-4d82-97df-df992af9cc64"
+        },
+        {
+          "id": 10365322,
+          "face": {
+            "front": {
+              "name": "Ignition Beast Volcannon",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/10365322.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Ignition Beast Volcannon",
+          "type": "Monster",
+          "Type line": "Fusion Effect Monster",
+          "cost": 0,
+          "race": "Machine",
+          "atk": 2300,
+          "def": 1600,
+          "level": 6,
+          "attribute": "EARTH",
+          "count": 1,
+          "elementId": "fcff5151-9851-48f8-a4fb-ea91516c252e"
+        },
+        {
+          "id": 42632209,
+          "face": {
+            "front": {
+              "name": "Geomathmech Final Sigma",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/42632209.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Geomathmech Final Sigma",
+          "type": "Monster",
+          "Type line": "Synchro Effect Monster",
+          "cost": 0,
+          "archetype": "Mathmech",
+          "race": "Cyberse",
+          "atk": 3000,
+          "def": 0,
+          "level": 12,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "b842e550-2f9e-4b73-98d1-47452c7b22dd"
+        },
+        {
+          "id": 64193046,
+          "face": {
+            "front": {
+              "name": "Superheavy Samurai Brave Masurawo",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/64193046.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Superheavy Samurai Brave Masurawo",
+          "type": "Monster",
+          "Type line": "Synchro Effect Monster",
+          "cost": 0,
+          "archetype": "Superheavy Samurai",
+          "race": "Machine",
+          "atk": 2100,
+          "def": 4000,
+          "level": 12,
+          "attribute": "EARTH",
+          "count": 1,
+          "elementId": "c0348086-020f-439b-aac2-59e550f78bae"
+        },
+        {
+          "id": 9709452,
+          "face": {
+            "front": {
+              "name": "Gaia Blaze, the Force of the Sun",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/9709452.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Gaia Blaze, the Force of the Sun",
+          "type": "Monster",
+          "Type line": "Synchro Effect Monster",
+          "cost": 0,
+          "archetype": "Gaia Knight",
+          "race": "Pyro",
+          "atk": 2600,
+          "def": 2100,
+          "level": 7,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "bed5649d-1d4f-44dd-b307-b2cfeda2ebee"
+        },
+        {
+          "id": 73580471,
+          "face": {
+            "front": {
+              "name": "Black Rose Dragon",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/73580471.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Black Rose Dragon",
+          "type": "Monster",
+          "Type line": "Synchro Effect Monster",
+          "cost": 0,
+          "archetype": "Rose Dragon",
+          "race": "Dragon",
+          "atk": 2400,
+          "def": 1800,
+          "level": 7,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "8131625b-7f9e-43e6-9afa-2b4f28264bfd"
+        },
+        {
+          "id": 90448279,
+          "face": {
+            "front": {
+              "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/90448279.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+          "type": "Monster",
+          "Type line": "Xyz Effect Monster",
+          "cost": 0,
+          "race": "Machine",
+          "atk": 3000,
+          "def": 3000,
+          "level": 12,
+          "attribute": "LIGHT",
+          "count": 1,
+          "elementId": "b1570fd5-907a-456f-9d2c-a0bf839052f9"
+        },
+        {
+          "id": 26096328,
+          "face": {
+            "front": {
+              "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/26096328.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+          "type": "Monster",
+          "Type line": "Xyz Effect Monster",
+          "cost": 0,
+          "archetype": "Train",
+          "race": "Machine",
+          "atk": 4000,
+          "def": 4000,
+          "level": 11,
+          "attribute": "EARTH",
+          "count": 1,
+          "elementId": "eee844f4-6460-4143-b5e7-0081183fd2cd"
+        },
+        {
+          "id": 56910167,
+          "face": {
+            "front": {
+              "name": "Superdreadnought Rail Cannon Gustav Max",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/56910167.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Superdreadnought Rail Cannon Gustav Max",
+          "type": "Monster",
+          "Type line": "Xyz Effect Monster",
+          "cost": 0,
+          "archetype": "Train",
+          "race": "Machine",
+          "atk": 3000,
+          "def": 3000,
+          "level": 10,
+          "attribute": "EARTH",
+          "count": 1,
+          "elementId": "b24b0970-720e-43c7-afb2-c18fb0a39afe"
+        },
+        {
+          "id": 8387138,
+          "face": {
+            "front": {
+              "name": "Number 27: Dreadnought Dreadnoid",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/8387138.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Number 27: Dreadnought Dreadnoid",
+          "type": "Monster",
+          "Type line": "Xyz Effect Monster",
+          "cost": 0,
+          "archetype": "Train",
+          "race": "Machine",
+          "atk": 2200,
+          "def": 1000,
+          "level": 4,
+          "attribute": "WATER",
+          "count": 1,
+          "elementId": "591de603-022d-4007-bfdb-c97747a615e2"
+        },
+        {
+          "id": 57134592,
+          "face": {
+            "front": {
+              "name": "Salamangreat Raging Phoenix",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/57134592.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Salamangreat Raging Phoenix",
+          "type": "Monster",
+          "Type line": "Link Effect Monster",
+          "cost": 0,
+          "archetype": "Salamangreat",
+          "race": "Cyberse",
+          "atk": 2800,
+          "def": null,
+          "level": null,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "fc28f94b-2cc9-456b-8c1b-58b18f2f5b05"
+        },
+        {
+          "id": 69073023,
+          "face": {
+            "front": {
+              "name": "Infinitrack Fortress Megaclops",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/69073023.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Infinitrack Fortress Megaclops",
+          "type": "Monster",
+          "Type line": "Link Effect Monster",
+          "cost": 0,
+          "archetype": "Infinitrack",
+          "race": "Machine",
+          "atk": 4000,
+          "def": null,
+          "level": null,
+          "attribute": "EARTH",
+          "count": 1,
+          "elementId": "b165c08f-9689-47c5-a41c-cdadb75c8b06"
+        },
+        {
+          "id": 2772337,
+          "face": {
+            "front": {
+              "name": "Promethean Princess, Bestower of Flames",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/2772337.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Promethean Princess, Bestower of Flames",
+          "type": "Monster",
+          "Type line": "Link Effect Monster",
+          "cost": 0,
+          "race": "Fiend",
+          "atk": 2700,
+          "def": null,
+          "level": null,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "d0ed49d5-4434-49c5-b1a3-f059e3b447b7"
+        },
+        {
+          "id": 48815792,
+          "face": {
+            "front": {
+              "name": "Hiita the Fire Charmer, Ablaze",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/48815792.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Hiita the Fire Charmer, Ablaze",
+          "type": "Monster",
+          "Type line": "Link Effect Monster",
+          "cost": 0,
+          "archetype": "Charmer",
+          "race": "Spellcaster",
+          "atk": 1850,
+          "def": null,
+          "level": null,
+          "attribute": "FIRE",
+          "count": 1,
+          "elementId": "020e57e1-27a8-4d1a-9e66-956cbc9c227e"
+        },
+        {
+          "id": 13117073,
+          "face": {
+            "front": {
+              "name": "Barricadeborg Blocker",
+              "type": "Monster",
+              "cost": 0,
+              "image": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
+              "isHorizontal": false
+            }
+          },
+          "name": "Barricadeborg Blocker",
+          "type": "Monster",
+          "Type line": "Link Effect Monster",
+          "cost": 0,
+          "race": "Machine",
+          "atk": 1000,
+          "def": null,
+          "level": null,
+          "attribute": "DARK",
+          "count": 1,
+          "elementId": "967f9454-baaa-452a-a6ab-6b7db092dac7"
+        }
+      ],
+      "Monster": [
+        {
+          "count": 1,
+          "id": 74530899
+        },
+        {
+          "count": 1,
+          "id": 7733560
+        },
+        {
+          "count": 1,
+          "id": 10000080
+        },
+        {
+          "count": 1,
+          "id": 102380
+        },
+        {
+          "count": 1,
+          "id": 59900655
+        },
+        {
+          "count": 1,
+          "id": 64752646
+        },
+        {
+          "count": 1,
+          "id": 74823665
+        },
+        {
+          "count": 1,
+          "id": 47961808
+        },
+        {
+          "count": 1,
+          "id": 87462901
+        },
+        {
+          "count": 1,
+          "id": 16769305
+        },
+        {
+          "count": 1,
+          "id": 66436257
+        },
+        {
+          "count": 1,
+          "id": 14558127
+        },
+        {
+          "count": 1,
+          "id": 35405755
+        },
+        {
+          "count": 1,
+          "id": 18964575
+        }
       ],
       "Spell": [
         {
           "count": 1,
-          "id": 4031928
+          "id": 59750328
         },
         {
           "count": 1,
-          "id": 19159413
+          "id": 42516299
         },
         {
           "count": 1,
-          "id": 37120512
+          "id": 56256517
         },
         {
           "count": 1,
-          "id": 51482758
+          "id": 74055055
         },
         {
           "count": 1,
-          "id": 53129443
+          "id": 24094653
         },
         {
           "count": 1,
-          "id": 59197169
+          "id": 67169062
         },
         {
           "count": 1,
-          "id": 66788016
+          "id": 55144522
         },
         {
           "count": 1,
-          "id": 68005187
+          "id": 84211599
         },
         {
           "count": 1,
-          "id": 72892473
+          "id": 81756619
         },
         {
           "count": 1,
-          "id": 83764719
+          "id": 19403423
         },
         {
           "count": 1,
-          "id": 84257640
+          "id": 35269904
         },
         {
           "count": 1,
-          "id": 85602018
+          "id": 91623717
         },
         {
           "count": 1,
-          "id": 91595718
+          "id": 93260132
+        },
+        {
+          "count": 1,
+          "id": 91740879
+        },
+        {
+          "count": 1,
+          "id": 12021072
+        },
+        {
+          "count": 1,
+          "id": 7153114
+        },
+        {
+          "count": 1,
+          "id": 79922118
+        },
+        {
+          "count": 1,
+          "id": 44656491
+        },
+        {
+          "count": 1,
+          "id": 61650133
+        },
+        {
+          "count": 1,
+          "id": 67616300
+        },
+        {
+          "count": 1,
+          "id": 16625614
+        },
+        {
+          "count": 1,
+          "id": 76375976
         }
       ],
       "Trap": [
         {
           "count": 1,
-          "id": 4206964
+          "id": 75249652
         },
         {
           "count": 1,
-          "id": 12607053
+          "id": 36468556
         },
         {
           "count": 1,
-          "id": 17814387
+          "id": 67095270
         },
         {
           "count": 1,
-          "id": 44209392
+          "id": 31548215
         },
         {
           "count": 1,
-          "id": 50045299
-        },
-        {
-          "count": 1,
-          "id": 77622396
-        },
-        {
-          "count": 1,
-          "id": 80604092
-        },
-        {
-          "count": 1,
-          "id": 83887306
-        }
-      ],
-      "Monster": [
-        {
-          "count": 1,
-          "id": 6368038
-        },
-        {
-          "count": 1,
-          "id": 13039848
-        },
-        {
-          "count": 1,
-          "id": 13429800
-        },
-        {
-          "count": 1,
-          "id": 13723605
-        },
-        {
-          "count": 1,
-          "id": 13945283
-        },
-        {
-          "count": 1,
-          "id": 15025844
-        },
-        {
-          "count": 1,
-          "id": 16972957
-        },
-        {
-          "count": 1,
-          "id": 28279543
-        },
-        {
-          "count": 1,
-          "id": 32452818
-        },
-        {
-          "count": 1,
-          "id": 36304921
-        },
-        {
-          "count": 1,
-          "id": 40374923
-        },
-        {
-          "count": 1,
-          "id": 41218256
-        },
-        {
-          "count": 1,
-          "id": 41392891
-        },
-        {
-          "count": 1,
-          "id": 46461247
-        },
-        {
-          "count": 1,
-          "id": 46474915
-        },
-        {
-          "count": 1,
-          "id": 46986414
-        },
-        {
-          "count": 1,
-          "id": 47060154
-        },
-        {
-          "count": 1,
-          "id": 48365709
-        },
-        {
-          "count": 1,
-          "id": 49218300
-        },
-        {
-          "count": 1,
-          "id": 50930991
-        },
-        {
-          "count": 1,
-          "id": 54652250
-        },
-        {
-          "count": 1,
-          "id": 66672569
-        },
-        {
-          "count": 1,
-          "id": 70781052
-        },
-        {
-          "count": 1,
-          "id": 86325596
-        },
-        {
-          "count": 1,
-          "id": 87557188
-        },
-        {
-          "count": 1,
-          "id": 87796900
-        },
-        {
-          "count": 1,
-          "id": 90357090
-        },
-        {
-          "count": 1,
-          "id": 91152256
-        },
-        {
-          "count": 1,
-          "id": 93221206
-        }
-      ]
-    }
-  },
-  {
-    "title": "Starter Deck: Kaiba",
-    "id": "Starter Deck: Kaiba",
-    "game": "Yu-Gi-Oh",
-    "format": "Classic",
-    "cardCount": 50,
-    "createdAt": "2025-04-21T14:02:25.161Z",
-    "lastModifiedAt": "2025-04-21T14:03:45.803Z",
-    "deckList": {
-      "categoriesOrder": [
-        "Monster",
-        "Trap",
-        "Spell"
-      ],
-      "Monster": [
-        {
-          "count": 1,
-          "id": 1184620
-        },
-        {
-          "count": 1,
-          "id": 1784619
-        },
-        {
-          "count": 1,
-          "id": 5053103
-        },
-        {
-          "count": 1,
-          "id": 6285791
-        },
-        {
-          "count": 1,
-          "id": 7089711
-        },
-        {
-          "count": 1,
-          "id": 10202894
-        },
-        {
-          "count": 1,
-          "id": 15303296
-        },
-        {
-          "count": 1,
-          "id": 17985575
-        },
-        {
-          "count": 1,
-          "id": 21263083
-        },
-        {
-          "count": 1,
-          "id": 24611934
-        },
-        {
-          "count": 1,
-          "id": 26378150
-        },
-        {
-          "count": 1,
-          "id": 30113682
-        },
-        {
-          "count": 1,
-          "id": 31122090
-        },
-        {
-          "count": 1,
-          "id": 41949033
-        },
-        {
-          "count": 1,
-          "id": 45121025
-        },
-        {
-          "count": 1,
-          "id": 46461247
-        },
-        {
-          "count": 1,
-          "id": 47060154
-        },
-        {
-          "count": 1,
-          "id": 50005633
-        },
-        {
-          "count": 1,
-          "id": 54098121
-        },
-        {
-          "count": 1,
-          "id": 63308047
-        },
-        {
-          "count": 1,
-          "id": 67724379
-        },
-        {
-          "count": 1,
-          "id": 68516705
-        },
-        {
-          "count": 1,
-          "id": 73481154
-        },
-        {
-          "count": 1,
-          "id": 75499502
-        },
-        {
-          "count": 1,
-          "id": 76184692
-        },
-        {
-          "count": 1,
-          "id": 81057959
-        },
-        {
-          "count": 1,
-          "id": 89494469
-        },
-        {
-          "count": 1,
-          "id": 89631139
-        },
-        {
-          "count": 1,
-          "id": 91939608
-        },
-        {
-          "count": 1,
-          "id": 97360116
-        },
-        {
-          "count": 1,
-          "id": 97590747
-        }
-      ],
-      "Trap": [
-        {
-          "count": 1,
-          "id": 4206964
-        },
-        {
-          "count": 1,
-          "id": 17814387
+          "id": 98954106
         },
         {
           "count": 1,
@@ -376,69 +546,81 @@
         },
         {
           "count": 1,
-          "id": 44209392
+          "id": 62279055
         },
         {
           "count": 1,
-          "id": 77622396
+          "id": 15943341
         },
         {
           "count": 1,
-          "id": 80604092
+          "id": 89208725
         },
         {
           "count": 1,
-          "id": 83887306
+          "id": 81223446
+        },
+        {
+          "count": 1,
+          "id": 83555666
+        },
+        {
+          "count": 1,
+          "id": 27053506
+        },
+        {
+          "count": 1,
+          "id": 42945701
+        },
+        {
+          "count": 1,
+          "id": 6351147
+        },
+        {
+          "count": 1,
+          "id": 10813327
+        },
+        {
+          "count": 1,
+          "id": 88001391
+        },
+        {
+          "count": 1,
+          "id": 65830223
+        },
+        {
+          "count": 1,
+          "id": 53334471
+        },
+        {
+          "count": 1,
+          "id": 83266092
+        },
+        {
+          "count": 1,
+          "id": 24348804
+        },
+        {
+          "count": 1,
+          "id": 90846359
+        },
+        {
+          "count": 1,
+          "id": 98139712
+        },
+        {
+          "count": 1,
+          "id": 24207889
+        },
+        {
+          "count": 1,
+          "id": 44716890
         }
       ],
-      "Spell": [
+      "Deck Master": [
         {
           "count": 1,
-          "id": 4614116
-        },
-        {
-          "count": 1,
-          "id": 17092736
-        },
-        {
-          "count": 1,
-          "id": 19159413
-        },
-        {
-          "count": 1,
-          "id": 19523799
-        },
-        {
-          "count": 1,
-          "id": 43973174
-        },
-        {
-          "count": 1,
-          "id": 51482758
-        },
-        {
-          "count": 1,
-          "id": 53129443
-        },
-        {
-          "count": 1,
-          "id": 66788016
-        },
-        {
-          "count": 1,
-          "id": 81820689
-        },
-        {
-          "count": 1,
-          "id": 83764719
-        },
-        {
-          "count": 1,
-          "id": 86318356
-        },
-        {
-          "count": 1,
-          "id": 98374133
+          "id": 60806437
         }
       ]
     }

@@ -12482,14 +12482,14 @@
         "id": 40706444,
         "face": {
             "front": {
-                "name": "Argostars - Courageous Arion",
+                "name": "Argostars - Adventurous Arion",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/40706444.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Argostars - Courageous Arion",
+        "name": "Argostars - Adventurous Arion",
         "type": "Monster",
         "Type line": "Xyz Effect Monster",
         "cost": 0,
@@ -14947,39 +14947,39 @@
         "level": 4,
         "attribute": "WATER"
     },
-    "74011784": {
-        "id": 74011784,
+    "74733322": {
+        "id": 74733322,
         "face": {
             "front": {
-                "name": "Artmegia Banish - Change",
+                "name": "Artmage Academic Arcane Arts Acropolis",
                 "type": "Spell",
                 "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/74011784.jpg",
+                "image": "https://images.ygoprodeck.com/images/cards/74733322.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Banish - Change",
+        "name": "Artmage Academic Arcane Arts Acropolis",
         "type": "Spell",
-        "Type line": "Normal Spell",
+        "Type line": "Field Spell",
         "cost": 0,
-        "archetype": "Artmegia"
+        "archetype": "Artmage"
     },
     "27184601": {
         "id": 27184601,
         "face": {
             "front": {
-                "name": "Artmegia Diaktoros",
+                "name": "Artmage Diactorus",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/27184601.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Diaktoros",
+        "name": "Artmage Diactorus",
         "type": "Monster",
         "Type line": "Fusion Effect Monster",
         "cost": 0,
-        "archetype": "Artmegia",
+        "archetype": "Artmage",
         "race": "Fairy",
         "atk": 2800,
         "def": 2500,
@@ -14990,18 +14990,18 @@
         "id": 34541940,
         "face": {
             "front": {
-                "name": "Artmegia Finemelt",
+                "name": "Artmage Finmel",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/34541940.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Finemelt",
+        "name": "Artmage Finmel",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
-        "archetype": "Artmegia",
+        "archetype": "Artmage",
         "race": "Warrior",
         "atk": 2400,
         "def": 1500,
@@ -15012,18 +15012,18 @@
         "id": 60946049,
         "face": {
             "front": {
-                "name": "Artmegia Graphlare",
+                "name": "Artmage Graflare",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/60946049.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Graphlare",
+        "name": "Artmage Graflare",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
-        "archetype": "Artmegia",
+        "archetype": "Artmage",
         "race": "Dragon",
         "atk": 2100,
         "def": 1500,
@@ -15034,18 +15034,18 @@
         "id": 97434754,
         "face": {
             "front": {
-                "name": "Artmegia Litera",
+                "name": "Artmage Litera",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/97434754.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Litera",
+        "name": "Artmage Litera",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
-        "archetype": "Artmegia",
+        "archetype": "Artmage",
         "race": "Spellcaster",
         "atk": 400,
         "def": 1800,
@@ -15056,69 +15056,91 @@
         "id": 37517035,
         "face": {
             "front": {
-                "name": "Artmegia Masterwork - Succession",
+                "name": "Artmage Masterwork -Succession-",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/37517035.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Masterwork - Succession",
+        "name": "Artmage Masterwork -Succession-",
         "type": "Spell",
         "Type line": "Quick-Play Spell",
         "cost": 0,
-        "archetype": "Artmegia"
+        "archetype": "Artmage"
     },
     "23599634": {
         "id": 23599634,
         "face": {
             "front": {
-                "name": "Artmegia Messena - Awakening",
+                "name": "Artmage Pact -Awakening-",
                 "type": "Trap",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/23599634.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Messena - Awakening",
+        "name": "Artmage Pact -Awakening-",
         "type": "Trap",
         "Type line": "Normal Trap",
         "cost": 0,
-        "archetype": "Artmegia"
+        "archetype": "Artmage"
     },
-    "74733322": {
-        "id": 74733322,
+    "23829452": {
+        "id": 23829452,
         "face": {
             "front": {
-                "name": "Artmegia the Academy City of Divine Arts",
-                "type": "Spell",
+                "name": "Artmage Power Patron",
+                "type": "Monster",
                 "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/74733322.jpg",
+                "image": "https://images.ygoprodeck.com/images/cards/23829452.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia the Academy City of Divine Arts",
-        "type": "Spell",
-        "Type line": "Field Spell",
+        "name": "Artmage Power Patron",
+        "type": "Monster",
+        "Type line": "Effect Monster",
         "cost": 0,
-        "archetype": "Artmegia"
+        "archetype": "Artmage",
+        "race": "Illusion",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "EARTH"
     },
     "1122030": {
         "id": 1122030,
         "face": {
             "front": {
-                "name": "Artmegia Vandalism - Assault",
+                "name": "Artmage Vandalism -Assault-",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/1122030.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Artmegia Vandalism - Assault",
+        "name": "Artmage Vandalism -Assault-",
         "type": "Spell",
         "Type line": "Continuous Spell",
         "cost": 0,
-        "archetype": "Artmegia"
+        "archetype": "Artmage"
+    },
+    "74011784": {
+        "id": 74011784,
+        "face": {
+            "front": {
+                "name": "Artmage Varnish -Alteration-",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/74011784.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Artmage Varnish -Alteration-",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "Artmage"
     },
     "21223277": {
         "id": 21223277,
@@ -15271,6 +15293,27 @@
         "Type line": "Continuous Trap",
         "cost": 0,
         "archetype": "Ashened"
+    },
+    "44376395": {
+        "id": 44376395,
+        "face": {
+            "front": {
+                "name": "ASHLAN U1000",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/44376395.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "ASHLAN U1000",
+        "type": "Monster",
+        "Type line": "Link Effect Monster",
+        "cost": 0,
+        "race": "Cyberse",
+        "atk": 1400,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT"
     },
     "58996839": {
         "id": 58996839,
@@ -30458,6 +30501,27 @@
         "Type line": "Quick-Play Spell",
         "cost": 0
     },
+    "19000848": {
+        "id": 19000848,
+        "face": {
+            "front": {
+                "name": "Buio the Dawn's Light",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/19000848.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Buio the Dawn's Light",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 1500,
+        "level": 3,
+        "attribute": "DARK"
+    },
     "23979249": {
         "id": 23979249,
         "face": {
@@ -43206,6 +43270,28 @@
         "level": 4,
         "attribute": "WIND"
     },
+    "52644170": {
+        "id": 52644170,
+        "face": {
+            "front": {
+                "name": "Crossmind Archfiend",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/52644170.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Crossmind Archfiend",
+        "type": "Monster",
+        "Type line": "Synchro Effect Monster",
+        "cost": 0,
+        "archetype": "Archfiend",
+        "race": "Psychic",
+        "atk": 2500,
+        "def": 2800,
+        "level": 8,
+        "attribute": "DARK"
+    },
     "65681983": {
         "id": 65681983,
         "face": {
@@ -43313,14 +43399,14 @@
         "id": 875572,
         "face": {
             "front": {
-                "name": "Crowley, the Gifted of Magistus",
+                "name": "Crowley, the Gifted Magistus",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/875572.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Crowley, the Gifted of Magistus",
+        "name": "Crowley, the Gifted Magistus",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -45056,23 +45142,6 @@
         "def": 2000,
         "level": 8,
         "attribute": "DARK"
-    },
-    "59983249": {
-        "id": 59983249,
-        "face": {
-            "front": {
-                "name": "Culmination of the Monarchs",
-                "type": "Trap",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/59983249.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Culmination of the Monarchs",
-        "type": "Trap",
-        "Type line": "Continuous Trap",
-        "cost": 0,
-        "archetype": "Monarch"
     },
     "27178262": {
         "id": 27178262,
@@ -50630,6 +50699,28 @@
         "level": 10,
         "attribute": "DARK"
     },
+    "101302035": {
+        "id": 101302035,
+        "face": {
+            "front": {
+                "name": "D/D/D/D Great Dimension King Arc Crisis",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302035.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "D/D/D/D Great Dimension King Arc Crisis",
+        "type": "Monster",
+        "Type line": "Fusion Pendulum Effect Monster",
+        "cost": 0,
+        "archetype": "D/D",
+        "race": "Fiend",
+        "atk": 4000,
+        "def": 4000,
+        "level": 12,
+        "attribute": "DARK"
+    },
     "97417863": {
         "id": 97417863,
         "face": {
@@ -53240,6 +53331,22 @@
         "level": 8,
         "attribute": "EARTH"
     },
+    "71440209": {
+        "id": 71440209,
+        "face": {
+            "front": {
+                "name": "Dark Magic Amulet",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/71440209.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dark Magic Amulet",
+        "type": "Trap",
+        "Type line": "Normal Trap",
+        "cost": 0
+    },
     "2314238": {
         "id": 2314238,
         "face": {
@@ -53507,14 +53614,14 @@
         "level": 8,
         "attribute": "DARK"
     },
-    "100445001": {
-        "id": 100445001,
+    "59400890": {
+        "id": 59400890,
         "face": {
             "front": {
                 "name": "Dark Magician of Destruction",
                 "type": "Monster",
                 "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/100445001.jpg",
+                "image": "https://images.ygoprodeck.com/images/cards/59400890.jpg",
                 "isHorizontal": false
             }
         },
@@ -56216,6 +56323,27 @@
         "def": null,
         "level": null,
         "attribute": "FIRE"
+    },
+    "20240828": {
+        "id": 20240828,
+        "face": {
+            "front": {
+                "name": "Decoy",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/20240828.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Decoy",
+        "type": "Monster",
+        "Type line": "Normal Monster",
+        "cost": 0,
+        "race": "Beast",
+        "atk": 50,
+        "def": 50,
+        "level": 1,
+        "attribute": "LIGHT"
     },
     "2732323": {
         "id": 2732323,
@@ -68904,6 +69032,28 @@
         "cost": 0,
         "archetype": "Aroma"
     },
+    "46221535": {
+        "id": 46221535,
+        "face": {
+            "front": {
+                "name": "Drill Armed Dragon",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/46221535.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Drill Armed Dragon",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Armed Dragon",
+        "race": "Dragon",
+        "atk": 1100,
+        "def": 400,
+        "level": 3,
+        "attribute": "WIND"
+    },
     "24137081": {
         "id": 24137081,
         "face": {
@@ -74476,6 +74626,28 @@
             }
         },
         "name": "Elemental HERO Thunder Giant",
+        "type": "Monster",
+        "Type line": "Fusion Effect Monster",
+        "cost": 0,
+        "archetype": "Elemental HERO",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1500,
+        "level": 6,
+        "attribute": "LIGHT"
+    },
+    "19222426": {
+        "id": 19222426,
+        "face": {
+            "front": {
+                "name": "Elemental HERO Thunder Giant - Voltic Thunder",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/19222426.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Elemental HERO Thunder Giant - Voltic Thunder",
         "type": "Monster",
         "Type line": "Fusion Effect Monster",
         "cost": 0,
@@ -91859,23 +92031,6 @@
         "level": 6,
         "attribute": "DARK"
     },
-    "75956913": {
-        "id": 75956913,
-        "face": {
-            "front": {
-                "name": "Gagaga Hope Tactics",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/75956913.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Gagaga Hope Tactics",
-        "type": "Spell",
-        "Type line": "Continuous Spell",
-        "cost": 0,
-        "archetype": "Gagaga"
-    },
     "26082117": {
         "id": 26082117,
         "face": {
@@ -91963,6 +92118,23 @@
         "def": 800,
         "level": 2,
         "attribute": "DARK"
+    },
+    "75956913": {
+        "id": 75956913,
+        "face": {
+            "front": {
+                "name": "Gagaga Utopic Tactics",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/75956913.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gagaga Utopic Tactics",
+        "type": "Spell",
+        "Type line": "Continuous Spell",
+        "cost": 0,
+        "archetype": "Gagaga"
     },
     "82052602": {
         "id": 82052602,
@@ -92709,14 +92881,14 @@
         "id": 48835607,
         "face": {
             "front": {
-                "name": "Galatea-i, the Orcust Automaton",
+                "name": "Galatea-I, the Orcust Automaton",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/48835607.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Galatea-i, the Orcust Automaton",
+        "name": "Galatea-I, the Orcust Automaton",
         "type": "Monster",
         "Type line": "Link Effect Monster",
         "cost": 0,
@@ -104230,6 +104402,27 @@
         "level": 3,
         "attribute": "DARK"
     },
+    "12067160": {
+        "id": 12067160,
+        "face": {
+            "front": {
+                "name": "Gorgon of Zilofthonia",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/12067160.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gorgon of Zilofthonia",
+        "type": "Monster",
+        "Type line": "Link Effect Monster",
+        "cost": 0,
+        "race": "Reptile",
+        "atk": 100,
+        "def": null,
+        "level": null,
+        "attribute": "DARK"
+    },
     "29357687": {
         "id": 29357687,
         "face": {
@@ -104511,6 +104704,28 @@
         "level": 0,
         "attribute": "EARTH"
     },
+    "101302041": {
+        "id": 101302041,
+        "face": {
+            "front": {
+                "name": "Gouki Dragon Ogre",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302041.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gouki Dragon Ogre",
+        "type": "Monster",
+        "Type line": "Synchro Effect Monster",
+        "cost": 0,
+        "archetype": "Gouki",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 0,
+        "level": 6,
+        "attribute": "EARTH"
+    },
     "26285557": {
         "id": 26285557,
         "face": {
@@ -104525,6 +104740,23 @@
         "name": "Gouki Face Turn",
         "type": "Spell",
         "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "Gouki"
+    },
+    "101302056": {
+        "id": 101302056,
+        "face": {
+            "front": {
+                "name": "Gouki Fighting Spirit",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302056.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gouki Fighting Spirit",
+        "type": "Spell",
+        "Type line": "Continuous Spell",
         "cost": 0,
         "archetype": "Gouki"
     },
@@ -104655,6 +104887,28 @@
         "level": 0,
         "attribute": "EARTH"
     },
+    "101302006": {
+        "id": 101302006,
+        "face": {
+            "front": {
+                "name": "Gouki Mashin Suprex",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302006.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gouki Mashin Suprex",
+        "type": "Monster",
+        "Type line": "Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Gouki",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH"
+    },
     "20191720": {
         "id": 20191720,
         "face": {
@@ -104758,6 +105012,28 @@
         "atk": 2300,
         "def": 0,
         "level": 5,
+        "attribute": "EARTH"
+    },
+    "101302050": {
+        "id": 101302050,
+        "face": {
+            "front": {
+                "name": "Gouki Sheik Ogre",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302050.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gouki Sheik Ogre",
+        "type": "Monster",
+        "Type line": "Link Effect Monster",
+        "cost": 0,
+        "archetype": "Gouki",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": null,
+        "level": null,
         "attribute": "EARTH"
     },
     "24073068": {
@@ -104934,6 +105210,28 @@
         "atk": 2400,
         "def": null,
         "level": null,
+        "attribute": "EARTH"
+    },
+    "101302036": {
+        "id": 101302036,
+        "face": {
+            "front": {
+                "name": "Gouki The Tyrant Ogre",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302036.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gouki The Tyrant Ogre",
+        "type": "Monster",
+        "Type line": "Fusion Effect Monster",
+        "cost": 0,
+        "archetype": "Gouki",
+        "race": "Warrior",
+        "atk": 3500,
+        "def": 0,
+        "level": 8,
         "attribute": "EARTH"
     },
     "30010480": {
@@ -108876,23 +109174,6 @@
         "level": 4,
         "attribute": "LIGHT"
     },
-    "61822419": {
-        "id": 61822419,
-        "face": {
-            "front": {
-                "name": "Guilt Gripping Morganite",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/61822419.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Guilt Gripping Morganite",
-        "type": "Spell",
-        "Type line": "Normal Spell",
-        "cost": 0,
-        "archetype": "Morganite"
-    },
     "88695895": {
         "id": 88695895,
         "face": {
@@ -108909,6 +109190,23 @@
         "Type line": "Normal Trap",
         "cost": 0,
         "archetype": "Sinful Spoils"
+    },
+    "61822419": {
+        "id": 61822419,
+        "face": {
+            "front": {
+                "name": "Guilt-Gripping Morganite",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/61822419.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Guilt-Gripping Morganite",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "Morganite"
     },
     "79724755": {
         "id": 79724755,
@@ -110010,7 +110308,7 @@
         },
         "name": "Han-Shi Kyudo Spirit",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Spirit Effect Monster",
         "cost": 0,
         "archetype": "Martial Art Spirit",
         "race": "Warrior",
@@ -118681,28 +118979,6 @@
         "level": 10,
         "attribute": "EARTH"
     },
-    "23829452": {
-        "id": 23829452,
-        "face": {
-            "front": {
-                "name": "Imprisoned Deity Beast of Artmegia",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/23829452.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Imprisoned Deity Beast of Artmegia",
-        "type": "Monster",
-        "Type line": "Effect Monster",
-        "cost": 0,
-        "archetype": "Artmegia",
-        "race": "Illusion",
-        "atk": 300,
-        "def": 200,
-        "level": 1,
-        "attribute": "EARTH"
-    },
     "52248570": {
         "id": 52248570,
         "face": {
@@ -119130,6 +119406,22 @@
         "def": 1800,
         "level": 6,
         "attribute": "FIRE"
+    },
+    "101302069": {
+        "id": 101302069,
+        "face": {
+            "front": {
+                "name": "Infernal Punisher",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302069.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Infernal Punisher",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0
     },
     "8581705": {
         "id": 8581705,
@@ -126168,7 +126460,7 @@
         },
         "name": "Kai-Den Kendo Spirit",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Spirit Effect Monster",
         "cost": 0,
         "archetype": "Martial Art Spirit",
         "race": "Warrior",
@@ -126197,6 +126489,27 @@
         "atk": 200,
         "def": 700,
         "level": 3,
+        "attribute": "LIGHT"
+    },
+    "67768675": {
+        "id": 67768675,
+        "face": {
+            "front": {
+                "name": "Kaibaman the Legend",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/67768675.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaibaman the Legend",
+        "type": "Monster",
+        "Type line": "Tuner Effect Monster",
+        "cost": 0,
+        "race": "Warrior",
+        "atk": 200,
+        "def": 700,
+        "level": 1,
         "attribute": "LIGHT"
     },
     "81057455": {
@@ -130940,7 +131253,7 @@
         },
         "name": "Kuro-Obi Karate Spirit",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Spirit Effect Monster",
         "cost": 0,
         "archetype": "Martial Art Spirit",
         "race": "Warrior",
@@ -133300,27 +133613,6 @@
         "cost": 0,
         "archetype": "Legendary Knight"
     },
-    "67768675": {
-        "id": 67768675,
-        "face": {
-            "front": {
-                "name": "Legend of Justice Kaibaman",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/67768675.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Legend of Justice Kaibaman",
-        "type": "Monster",
-        "Type line": "Tuner Effect Monster",
-        "cost": 0,
-        "race": "Warrior",
-        "atk": 200,
-        "def": 700,
-        "level": 1,
-        "attribute": "LIGHT"
-    },
     "28754338": {
         "id": 28754338,
         "face": {
@@ -133990,14 +134282,14 @@
         "id": 55423549,
         "face": {
             "front": {
-                "name": "Leo Wizard, the Dark Mage",
+                "name": "Leo Wizard the Dark Fiend",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/55423549.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Leo Wizard, the Dark Mage",
+        "name": "Leo Wizard the Dark Fiend",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -135312,6 +135604,27 @@
         "Type line": "Continuous Trap",
         "cost": 0,
         "archetype": "Lightsworn"
+    },
+    "82616239": {
+        "id": 82616239,
+        "face": {
+            "front": {
+                "name": "Light Water Dragon",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/82616239.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Light Water Dragon",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 1300,
+        "level": 4,
+        "attribute": "WATER"
     },
     "83880087": {
         "id": 83880087,
@@ -137802,6 +138115,27 @@
         "def": 3000,
         "level": 8,
         "attribute": "LIGHT"
+    },
+    "45409943": {
+        "id": 45409943,
+        "face": {
+            "front": {
+                "name": "Luce the Dusk's Dark",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/45409943.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Luce the Dusk's Dark",
+        "type": "Monster",
+        "Type line": "Fusion Effect Monster",
+        "cost": 0,
+        "race": "Fiend",
+        "atk": 3500,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK"
     },
     "34968834": {
         "id": 34968834,
@@ -140705,14 +141039,14 @@
         "id": 59080,
         "face": {
             "front": {
-                "name": "Magia Magic - Thor Hammer",
+                "name": "Magia Magic - Thunder of Judgment",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/59080.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Magia Magic - Thor Hammer",
+        "name": "Magia Magic - Thunder of Judgment",
         "type": "Spell",
         "Type line": "Normal Spell",
         "cost": 0,
@@ -143024,6 +143358,206 @@
         "Type line": "Quick-Play Spell",
         "cost": 0,
         "archetype": "Cyber Angel"
+    },
+    "101302017": {
+        "id": 101302017,
+        "face": {
+            "front": {
+                "name": "Magnifistorm Great Pyre Phonix",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302017.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorm Great Pyre Phonix",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Magnifistorm",
+        "race": "Pyro",
+        "atk": 3000,
+        "def": 0,
+        "level": 9,
+        "attribute": "WIND"
+    },
+    "101302016": {
+        "id": 101302016,
+        "face": {
+            "front": {
+                "name": "Magnifistorm Vortex Beauty Valrune",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302016.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorm Vortex Beauty Valrune",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Magnifistorm",
+        "race": "Aqua",
+        "atk": 0,
+        "def": 3000,
+        "level": 9,
+        "attribute": "WIND"
+    },
+    "101302015": {
+        "id": 101302015,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Crothea",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302015.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Crothea",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Magnifistorm",
+        "race": "Winged Beast",
+        "atk": 2200,
+        "def": 1200,
+        "level": 6,
+        "attribute": "WIND"
+    },
+    "101302013": {
+        "id": 101302013,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Erdam",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302013.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Erdam",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Magnifistorm",
+        "race": "Beast",
+        "atk": 1300,
+        "def": 800,
+        "level": 3,
+        "attribute": "WIND"
+    },
+    "101302012": {
+        "id": 101302012,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Megala",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302012.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Megala",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Magnifistorm",
+        "race": "Fairy",
+        "atk": 500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "WIND"
+    },
+    "101302063": {
+        "id": 101302063,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Sight Trance",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302063.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Sight Trance",
+        "type": "Spell",
+        "Type line": "Quick-Play Spell",
+        "cost": 0,
+        "archetype": "Magnifistorm"
+    },
+    "101302076": {
+        "id": 101302076,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Sovereign Tyranny",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302076.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Sovereign Tyranny",
+        "type": "Trap",
+        "Type line": "Continuous Trap",
+        "cost": 0,
+        "archetype": "Magnifistorm"
+    },
+    "101302061": {
+        "id": 101302061,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Stanza Tribute",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302061.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Stanza Tribute",
+        "type": "Spell",
+        "Type line": "Quick-Play Spell",
+        "cost": 0,
+        "archetype": "Magnifistorm"
+    },
+    "101302014": {
+        "id": 101302014,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Suen",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302014.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Suen",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Magnifistorm",
+        "race": "Beast-Warrior",
+        "atk": 1600,
+        "def": 400,
+        "level": 3,
+        "attribute": "WIND"
+    },
+    "101302062": {
+        "id": 101302062,
+        "face": {
+            "front": {
+                "name": "Magnifistorming Summoning Technique",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302062.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Magnifistorming Summoning Technique",
+        "type": "Spell",
+        "Type line": "Quick-Play Spell",
+        "cost": 0,
+        "archetype": "Magnifistorm"
     },
     "84877802": {
         "id": 84877802,
@@ -146828,6 +147362,28 @@
         "level": 8,
         "attribute": "DARK"
     },
+    "85672957": {
+        "id": 85672957,
+        "face": {
+            "front": {
+                "name": "Masked HERO Atomic",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/85672957.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Masked HERO Atomic",
+        "type": "Monster",
+        "Type line": "Fusion Effect Monster",
+        "cost": 0,
+        "archetype": "HERO",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2000,
+        "level": 8,
+        "attribute": "FIRE"
+    },
     "89870349": {
         "id": 89870349,
         "face": {
@@ -146915,6 +147471,50 @@
         "def": 1900,
         "level": 8,
         "attribute": "WIND"
+    },
+    "10808715": {
+        "id": 10808715,
+        "face": {
+            "front": {
+                "name": "Masked HERO Dusk Crow",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/10808715.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Masked HERO Dusk Crow",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "HERO",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK"
+    },
+    "58288218": {
+        "id": 58288218,
+        "face": {
+            "front": {
+                "name": "Masked HERO Furnace",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/58288218.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Masked HERO Furnace",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "HERO",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1000,
+        "level": 7,
+        "attribute": "FIRE"
     },
     "58147549": {
         "id": 58147549,
@@ -149032,14 +149632,14 @@
         "id": 97556336,
         "face": {
             "front": {
-                "name": "Medius the Innocent",
+                "name": "Medius the Pure",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/97556336.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Medius the Innocent",
+        "name": "Medius the Pure",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -149173,6 +149773,23 @@
         "Type line": "Normal Spell",
         "cost": 0
     },
+    "101302066": {
+        "id": 101302066,
+        "face": {
+            "front": {
+                "name": "Megalith Anastasis",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302066.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Megalith Anastasis",
+        "type": "Spell",
+        "Type line": "Continuous Spell",
+        "cost": 0,
+        "archetype": "Megalith"
+    },
     "25726386": {
         "id": 25726386,
         "face": {
@@ -149254,6 +149871,28 @@
         "atk": 1300,
         "def": 2600,
         "level": 4,
+        "attribute": "EARTH"
+    },
+    "101302034": {
+        "id": 101302034,
+        "face": {
+            "front": {
+                "name": "Megalith Nortra Phulra",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302034.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Megalith Nortra Phulra",
+        "type": "Monster",
+        "Type line": "Ritual Effect Monster",
+        "cost": 0,
+        "archetype": "Megalith",
+        "race": "Rock",
+        "atk": 3700,
+        "def": 2700,
+        "level": 12,
         "attribute": "EARTH"
     },
     "36849933": {
@@ -149342,6 +149981,28 @@
         "atk": 500,
         "def": 2000,
         "level": 2,
+        "attribute": "EARTH"
+    },
+    "101302033": {
+        "id": 101302033,
+        "face": {
+            "front": {
+                "name": "Megalith Phuloch",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302033.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Megalith Phuloch",
+        "type": "Monster",
+        "Type line": "Ritual Effect Monster",
+        "cost": 0,
+        "archetype": "Megalith",
+        "race": "Rock",
+        "atk": 2000,
+        "def": 300,
+        "level": 4,
         "attribute": "EARTH"
     },
     "84504242": {
@@ -153356,6 +154017,23 @@
         "cost": 0,
         "archetype": "Mikanko"
     },
+    "84550369": {
+        "id": 84550369,
+        "face": {
+            "front": {
+                "name": "Mikanko Divine Dance - Futahashira no Uzu no Miko",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/84550369.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mikanko Divine Dance - Futahashira no Uzu no Miko",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "Mikanko"
+    },
     "80044027": {
         "id": 80044027,
         "face": {
@@ -155010,6 +155688,27 @@
         "Type line": "Normal Trap",
         "cost": 0,
         "archetype": "Supreme King"
+    },
+    "18988396": {
+        "id": 18988396,
+        "face": {
+            "front": {
+                "name": "Miracle Raven",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/18988396.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Miracle Raven",
+        "type": "Monster",
+        "Type line": "Ritual Pendulum Effect Monster",
+        "cost": 0,
+        "race": "Fiend",
+        "atk": 300,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK"
     },
     "68334074": {
         "id": 68334074,
@@ -156767,6 +157466,23 @@
         "def": 1400,
         "level": 4,
         "attribute": "EARTH"
+    },
+    "59983249": {
+        "id": 59983249,
+        "face": {
+            "front": {
+                "name": "Monarchic Perfection",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/59983249.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Monarchic Perfection",
+        "type": "Trap",
+        "Type line": "Continuous Trap",
+        "cost": 0,
+        "archetype": "Monarch"
     },
     "3810071": {
         "id": 3810071,
@@ -159257,6 +159973,22 @@
         "def": 2500,
         "level": 6,
         "attribute": "DARK"
+    },
+    "71593652": {
+        "id": 71593652,
+        "face": {
+            "front": {
+                "name": "Mutiny in the Sky",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/71593652.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mutiny in the Sky",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0
     },
     "75364199": {
         "id": 75364199,
@@ -163796,18 +164528,18 @@
         "id": 53589300,
         "face": {
             "front": {
-                "name": "Nerva the Imprisoned Deity of Creation",
+                "name": "Nerva the Power Patron of Creation",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/53589300.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Nerva the Imprisoned Deity of Creation",
+        "name": "Nerva the Power Patron of Creation",
         "type": "Monster",
         "Type line": "Fusion Effect Monster",
         "cost": 0,
-        "archetype": "Imprisoned Deity",
+        "archetype": "Power Patron",
         "race": "Illusion",
         "atk": 3300,
         "def": 3300,
@@ -187015,6 +187747,27 @@
         "level": 6,
         "attribute": "WIND"
     },
+    "70659412": {
+        "id": 70659412,
+        "face": {
+            "front": {
+                "name": "Psychic Omnibuster",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/70659412.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Psychic Omnibuster",
+        "type": "Monster",
+        "Type line": "Synchro Effect Monster",
+        "cost": 0,
+        "race": "Psychic",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "WIND"
+    },
     "82633308": {
         "id": 82633308,
         "face": {
@@ -189199,6 +189952,150 @@
         "def": 1100,
         "level": 4,
         "attribute": "WATER"
+    },
+    "78710386": {
+        "id": 78710386,
+        "face": {
+            "front": {
+                "name": "R.B. Funk Dock",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/78710386.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. Funk Dock",
+        "type": "Spell",
+        "Type line": "Field Spell",
+        "cost": 0,
+        "archetype": "R.B."
+    },
+    "33438265": {
+        "id": 33438265,
+        "face": {
+            "front": {
+                "name": "R.B. Ga10 Cutter",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/33438265.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. Ga10 Cutter",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "R.B.",
+        "race": "Machine",
+        "atk": 700,
+        "def": 700,
+        "level": 4,
+        "attribute": "EARTH"
+    },
+    "6043161": {
+        "id": 6043161,
+        "face": {
+            "front": {
+                "name": "R.B. Ga10 Driller",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/6043161.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. Ga10 Driller",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "R.B.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 3,
+        "attribute": "EARTH"
+    },
+    "5109321": {
+        "id": 5109321,
+        "face": {
+            "front": {
+                "name": "R.B. Stage Landing",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/5109321.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. Stage Landing",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "R.B."
+    },
+    "32216688": {
+        "id": 32216688,
+        "face": {
+            "front": {
+                "name": "R.B. The Brute Blues",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/32216688.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. The Brute Blues",
+        "type": "Monster",
+        "Type line": "Link Effect Monster",
+        "cost": 0,
+        "archetype": "R.B.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": null,
+        "level": null,
+        "attribute": "WIND"
+    },
+    "6821579": {
+        "id": 6821579,
+        "face": {
+            "front": {
+                "name": "R.B. VALCan Booster",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/6821579.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. VALCan Booster",
+        "type": "Monster",
+        "Type line": "Link Effect Monster",
+        "cost": 0,
+        "archetype": "R.B.",
+        "race": "Machine",
+        "atk": 500,
+        "def": null,
+        "level": null,
+        "attribute": "FIRE"
+    },
+    "79436874": {
+        "id": 79436874,
+        "face": {
+            "front": {
+                "name": "R.B. VALCan Rocket",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/79436874.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "R.B. VALCan Rocket",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "R.B.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 5,
+        "attribute": "FIRE"
     },
     "74875003": {
         "id": 74875003,
@@ -192474,6 +193371,22 @@
         "Type line": "Normal Spell",
         "cost": 0
     },
+    "71771004": {
+        "id": 71771004,
+        "face": {
+            "front": {
+                "name": "Readying of Rites",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/71771004.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Readying of Rites",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0
+    },
     "28121403": {
         "id": 28121403,
         "face": {
@@ -192700,23 +193613,6 @@
         "type": "Spell",
         "Type line": "Quick-Play Spell",
         "cost": 0
-    },
-    "9283801": {
-        "id": 9283801,
-        "face": {
-            "front": {
-                "name": "Rebellion of the Monarchs",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/9283801.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Rebellion of the Monarchs",
-        "type": "Spell",
-        "Type line": "Normal Spell",
-        "cost": 0,
-        "archetype": "Monarch"
     },
     "45064756": {
         "id": 45064756,
@@ -194744,16 +195640,33 @@
         "id": 95382988,
         "face": {
             "front": {
-                "name": "Regenesis Commandments",
+                "name": "Regenesis Commands",
                 "type": "Trap",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/95382988.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Regenesis Commandments",
+        "name": "Regenesis Commands",
         "type": "Trap",
         "Type line": "Normal Trap",
+        "cost": 0,
+        "archetype": "Regenesis"
+    },
+    "36672909": {
+        "id": 36672909,
+        "face": {
+            "front": {
+                "name": "Regenesis Cycle",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/36672909.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Regenesis Cycle",
+        "type": "Spell",
+        "Type line": "Normal Spell",
         "cost": 0,
         "archetype": "Regenesis"
     },
@@ -194800,23 +195713,6 @@
         "def": 2500,
         "level": 10,
         "attribute": "LIGHT"
-    },
-    "36672909": {
-        "id": 36672909,
-        "face": {
-            "front": {
-                "name": "Regenesis Pentateuch",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/36672909.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Regenesis Pentateuch",
-        "type": "Spell",
-        "Type line": "Normal Spell",
-        "cost": 0,
-        "archetype": "Regenesis"
     },
     "22938501": {
         "id": 22938501,
@@ -201967,27 +202863,6 @@
         "level": 4,
         "attribute": "EARTH"
     },
-    "89851827": {
-        "id": 89851827,
-        "face": {
-            "front": {
-                "name": "Sacramentum Dragoon",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/89851827.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Sacramentum Dragoon",
-        "type": "Monster",
-        "Type line": "Fusion Effect Monster",
-        "cost": 0,
-        "race": "Dragon",
-        "atk": 3000,
-        "def": 1500,
-        "level": 8,
-        "attribute": "LIGHT"
-    },
     "16261341": {
         "id": 16261341,
         "face": {
@@ -203897,6 +204772,28 @@
         "level": 4,
         "attribute": "EARTH"
     },
+    "11161666": {
+        "id": 11161666,
+        "face": {
+            "front": {
+                "name": "Sanaki the Mikanko Devotee",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/11161666.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sanaki the Mikanko Devotee",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Mikanko",
+        "race": "Illusion",
+        "atk": 0,
+        "def": 0,
+        "level": 3,
+        "attribute": "EARTH"
+    },
     "662853": {
         "id": 662853,
         "face": {
@@ -205348,23 +206245,6 @@
         "Type line": "Continuous Spell",
         "cost": 0,
         "archetype": "Fusion"
-    },
-    "63899196": {
-        "id": 63899196,
-        "face": {
-            "front": {
-                "name": "Scheme of the Monarchs",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/63899196.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Scheme of the Monarchs",
-        "type": "Spell",
-        "Type line": "Normal Spell",
-        "cost": 0,
-        "archetype": "Monarch"
     },
     "57594700": {
         "id": 57594700,
@@ -207125,6 +208005,27 @@
         "type": "Spell",
         "Type line": "Field Spell",
         "cost": 0
+    },
+    "89851827": {
+        "id": 89851827,
+        "face": {
+            "front": {
+                "name": "Secreterion Dragon",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/89851827.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Secreterion Dragon",
+        "type": "Monster",
+        "Type line": "Fusion Effect Monster",
+        "cost": 0,
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 1500,
+        "level": 8,
+        "attribute": "LIGHT"
     },
     "59514116": {
         "id": 59514116,
@@ -210339,14 +211240,14 @@
         "id": 58761791,
         "face": {
             "front": {
-                "name": "Shipment Error",
+                "name": "Shipping Error",
                 "type": "Trap",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/58761791.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Shipment Error",
+        "name": "Shipping Error",
         "type": "Trap",
         "Type line": "Normal Trap",
         "cost": 0
@@ -214059,23 +214960,6 @@
         "cost": 0,
         "archetype": "Sky Striker"
     },
-    "34433770": {
-        "id": 34433770,
-        "face": {
-            "front": {
-                "name": "Sky Striker Alternative - Lemnis Gate",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/34433770.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Sky Striker Alternative - Lemnis Gate",
-        "type": "Spell",
-        "Type line": "Quick-Play Spell",
-        "cost": 0,
-        "archetype": "Sky Striker"
-    },
     "99550630": {
         "id": 99550630,
         "face": {
@@ -214275,6 +215159,23 @@
             }
         },
         "name": "Sky Striker Mobilize - Linkage!",
+        "type": "Spell",
+        "Type line": "Quick-Play Spell",
+        "cost": 0,
+        "archetype": "Sky Striker"
+    },
+    "34433770": {
+        "id": 34433770,
+        "face": {
+            "front": {
+                "name": "Sky Striker Special Maneuver - Lemnisgate!",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/34433770.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sky Striker Special Maneuver - Lemnisgate!",
         "type": "Spell",
         "Type line": "Quick-Play Spell",
         "cost": 0,
@@ -215774,6 +216675,23 @@
         "cost": 0,
         "archetype": "Solfachord"
     },
+    "101302065": {
+        "id": 101302065,
+        "face": {
+            "front": {
+                "name": "Solfachord Happiness",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302065.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Solfachord Happiness",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "Solfachord"
+    },
     "29650040": {
         "id": 29650040,
         "face": {
@@ -215808,6 +216726,28 @@
         "cost": 0,
         "archetype": "Solfachord"
     },
+    "101302021": {
+        "id": 101302021,
+        "face": {
+            "front": {
+                "name": "Solfachord Primoria",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302021.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Solfachord Primoria",
+        "type": "Monster",
+        "Type line": "Pendulum Effect Monster",
+        "cost": 0,
+        "archetype": "Solfachord",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 400,
+        "level": 1,
+        "attribute": "EARTH"
+    },
     "53265336": {
         "id": 53265336,
         "face": {
@@ -215824,6 +216764,28 @@
         "Type line": "Normal Spell",
         "cost": 0,
         "archetype": "Solfachord"
+    },
+    "101302020": {
+        "id": 101302020,
+        "face": {
+            "front": {
+                "name": "Solfachord Solfeggia",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/101302020.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Solfachord Solfeggia",
+        "type": "Monster",
+        "Type line": "Pendulum Effect Monster",
+        "cost": 0,
+        "archetype": "Solfachord",
+        "race": "Fairy",
+        "atk": 400,
+        "def": 400,
+        "level": 2,
+        "attribute": "LIGHT"
     },
     "56510115": {
         "id": 56510115,
@@ -219587,22 +220549,6 @@
         "Type line": "Normal Trap",
         "cost": 0
     },
-    "85150300": {
-        "id": 85150300,
-        "face": {
-            "front": {
-                "name": "Spirit Hunter",
-                "type": "Trap",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/85150300.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Spirit Hunter",
-        "type": "Trap",
-        "Type line": "Continuous Trap",
-        "cost": 0
-    },
     "71939275": {
         "id": 71939275,
         "face": {
@@ -219920,6 +220866,22 @@
         "def": 0,
         "level": 10,
         "attribute": "DARK"
+    },
+    "85150300": {
+        "id": 85150300,
+        "face": {
+            "front": {
+                "name": "Spirit Poacher",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/85150300.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spirit Poacher",
+        "type": "Trap",
+        "Type line": "Continuous Trap",
+        "cost": 0
     },
     "23205979": {
         "id": 23205979,
@@ -223529,6 +224491,27 @@
         "level": null,
         "attribute": "LIGHT"
     },
+    "7166709": {
+        "id": 7166709,
+        "face": {
+            "front": {
+                "name": "Steel-Stringed Sacrifice",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/7166709.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Steel-Stringed Sacrifice",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "race": "Warrior",
+        "atk": 800,
+        "def": 1000,
+        "level": 1,
+        "attribute": "LIGHT"
+    },
     "53116300": {
         "id": 53116300,
         "face": {
@@ -225517,14 +226500,14 @@
         "id": 23611122,
         "face": {
             "front": {
-                "name": "Sudden Thunderous Swamp",
+                "name": "Sudden Thunder Swamp",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/23611122.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Sudden Thunderous Swamp",
+        "name": "Sudden Thunder Swamp",
         "type": "Spell",
         "Type line": "Continuous Spell",
         "cost": 0
@@ -228015,7 +228998,7 @@
         },
         "name": "Superheavy Samurai Prodigy Wakaushi",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Tuner Effect Monster",
         "cost": 0,
         "archetype": "Superheavy Samurai",
         "race": "Machine",
@@ -228870,7 +229853,7 @@
         },
         "name": "Supreme King Dragon Lightwurm",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Tuner Effect Monster",
         "cost": 0,
         "archetype": "Supreme King",
         "race": "Dragon",
@@ -229024,7 +230007,7 @@
         },
         "name": "Supreme King Z-ARC - Synchro Universe",
         "type": "Monster",
-        "Type line": "Synchro Effect Monster",
+        "Type line": "Synchro Pendulum Effect Monster",
         "cost": 0,
         "archetype": "Supreme King",
         "race": "Dragon",
@@ -230974,7 +231957,7 @@
         },
         "name": "Symphonic Warrior Guitariss",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Tuner Effect Monster",
         "cost": 0,
         "archetype": "Symphonic Warrior",
         "race": "Machine",
@@ -234757,14 +235740,14 @@
         "id": 67584223,
         "face": {
             "front": {
-                "name": "Tessera the Prime Squire",
+                "name": "Tessera the Primal Squire",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/67584223.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Tessera the Prime Squire",
+        "name": "Tessera the Primal Squire",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -236877,14 +237860,14 @@
         "cost": 0,
         "archetype": "Dark World"
     },
-    "100445003": {
-        "id": 100445003,
+    "22283204": {
+        "id": 22283204,
         "face": {
             "front": {
                 "name": "The Gaze of Timaeus",
                 "type": "Spell",
                 "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/100445003.jpg",
+                "image": "https://images.ygoprodeck.com/images/cards/22283204.jpg",
                 "isHorizontal": false
             }
         },
@@ -237782,6 +238765,40 @@
         "name": "The Monarchs Erupt",
         "type": "Trap",
         "Type line": "Continuous Trap",
+        "cost": 0,
+        "archetype": "Monarch"
+    },
+    "63899196": {
+        "id": 63899196,
+        "face": {
+            "front": {
+                "name": "The Monarchs Masterplan",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/63899196.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "The Monarchs Masterplan",
+        "type": "Spell",
+        "Type line": "Normal Spell",
+        "cost": 0,
+        "archetype": "Monarch"
+    },
+    "9283801": {
+        "id": 9283801,
+        "face": {
+            "front": {
+                "name": "The Monarchs Revolt",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/9283801.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "The Monarchs Revolt",
+        "type": "Spell",
+        "Type line": "Normal Spell",
         "cost": 0,
         "archetype": "Monarch"
     },
@@ -238787,14 +239804,14 @@
         "id": 15123983,
         "face": {
             "front": {
-                "name": "The Star Ham",
+                "name": "THE Star Ham",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/15123983.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "The Star Ham",
+        "name": "THE Star Ham",
         "type": "Monster",
         "Type line": "Synchro Effect Monster",
         "cost": 0,
@@ -240334,28 +241351,6 @@
         "cost": 0,
         "archetype": "Rose Dragon"
     },
-    "52644170": {
-        "id": 52644170,
-        "face": {
-            "front": {
-                "name": "Thought Cross Archfiend",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/52644170.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Thought Cross Archfiend",
-        "type": "Monster",
-        "Type line": "Synchro Effect Monster",
-        "cost": 0,
-        "archetype": "Archfiend",
-        "race": "Psychic",
-        "atk": 2500,
-        "def": 2800,
-        "level": 8,
-        "attribute": "DARK"
-    },
     "70780151": {
         "id": 70780151,
         "face": {
@@ -241632,14 +242627,14 @@
         "level": 8,
         "attribute": "LIGHT"
     },
-    "100445002": {
-        "id": 100445002,
+    "85899505": {
+        "id": 85899505,
         "face": {
             "front": {
                 "name": "Timaeus the United Magidragon",
                 "type": "Monster",
                 "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/100445002.jpg",
+                "image": "https://images.ygoprodeck.com/images/cards/85899505.jpg",
                 "isHorizontal": false
             }
         },
@@ -244952,6 +245947,22 @@
         "cost": 0,
         "archetype": "Hole"
     },
+    "22377092": {
+        "id": 22377092,
+        "face": {
+            "front": {
+                "name": "Trap Holic",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/22377092.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Trap Holic",
+        "type": "Trap",
+        "Type line": "Normal Trap",
+        "cost": 0
+    },
     "19252988": {
         "id": 19252988,
         "face": {
@@ -245118,22 +246129,6 @@
             }
         },
         "name": "Trap Trick",
-        "type": "Trap",
-        "Type line": "Normal Trap",
-        "cost": 0
-    },
-    "22377092": {
-        "id": 22377092,
-        "face": {
-            "front": {
-                "name": "Trapholic",
-                "type": "Trap",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/22377092.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Trapholic",
         "type": "Trap",
         "Type line": "Normal Trap",
         "cost": 0
@@ -251130,6 +252125,23 @@
         "Type line": "Normal Trap",
         "cost": 0
     },
+    "96004535": {
+        "id": 96004535,
+        "face": {
+            "front": {
+                "name": "Unbreakable Xyz Barrier",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/96004535.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Unbreakable Xyz Barrier",
+        "type": "Trap",
+        "Type line": "Counter Trap",
+        "cost": 0,
+        "archetype": "Xyz"
+    },
     "29479265": {
         "id": 29479265,
         "face": {
@@ -252893,6 +253905,28 @@
         "level": 4,
         "attribute": "LIGHT"
     },
+    "57566760": {
+        "id": 57566760,
+        "face": {
+            "front": {
+                "name": "Uzuhime the Manifested Mikanko",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/57566760.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Uzuhime the Manifested Mikanko",
+        "type": "Monster",
+        "Type line": "Xyz Effect Monster",
+        "cost": 0,
+        "archetype": "Mikanko",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 0,
+        "level": 3,
+        "attribute": "LIGHT"
+    },
     "33725002": {
         "id": 33725002,
         "face": {
@@ -253609,14 +254643,14 @@
         "id": 40673853,
         "face": {
             "front": {
-                "name": "Vallon, the Psychic Skyblaster",
+                "name": "Vallon, the Super Psy Skyblaster",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/40673853.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Vallon, the Psychic Skyblaster",
+        "name": "Vallon, the Super Psy Skyblaster",
         "type": "Monster",
         "Type line": "Xyz Effect Monster",
         "cost": 0,
@@ -254530,14 +255564,14 @@
         "id": 93156774,
         "face": {
             "front": {
-                "name": "Vanquish Soul Holy Sue",
+                "name": "Vanquish Soul Hollie Sue",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/93156774.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Vanquish Soul Holy Sue",
+        "name": "Vanquish Soul Hollie Sue",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -267496,6 +268530,23 @@
         "Type line": "Quick-Play Spell",
         "cost": 0
     },
+    "43150717": {
+        "id": 43150717,
+        "face": {
+            "front": {
+                "name": "Xyz Lay",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/43150717.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Xyz Lay",
+        "type": "Spell",
+        "Type line": "Equip Spell",
+        "cost": 0,
+        "archetype": "Xyz"
+    },
     "32999573": {
         "id": 32999573,
         "face": {
@@ -267746,23 +268797,6 @@
         "type": "Trap",
         "Type line": "Continuous Trap",
         "cost": 0
-    },
-    "96004535": {
-        "id": 96004535,
-        "face": {
-            "front": {
-                "name": "Xyz Unbreakable Barrier",
-                "type": "Trap",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/96004535.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Xyz Unbreakable Barrier",
-        "type": "Trap",
-        "Type line": "Counter Trap",
-        "cost": 0,
-        "archetype": "Xyz"
     },
     "13032689": {
         "id": 13032689,
@@ -268611,7 +269645,7 @@
         },
         "name": "Yoko-Zuna Sumo Spirit",
         "type": "Monster",
-        "Type line": "Pendulum Effect Monster",
+        "Type line": "Pendulum Spirit Effect Monster",
         "cost": 0,
         "archetype": "Martial Art Spirit",
         "race": "Warrior",
@@ -270430,27 +271464,6 @@
         "cost": 0,
         "archetype": "Zexal"
     },
-    "12067160": {
-        "id": 12067160,
-        "face": {
-            "front": {
-                "name": "Zilofthonia Gorgon",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/12067160.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Zilofthonia Gorgon",
-        "type": "Monster",
-        "Type line": "Link Effect Monster",
-        "cost": 0,
-        "race": "Reptile",
-        "atk": 100,
-        "def": null,
-        "level": null,
-        "attribute": "DARK"
-    },
     "24311372": {
         "id": 24311372,
         "face": {
@@ -271240,14 +272253,14 @@
         "id": 37260677,
         "face": {
             "front": {
-                "name": "Zoroa, the Magistus Victorious Verethragna",
+                "name": "Zoroa, the Magistus Verethragna",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/37260677.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Zoroa, the Magistus Victorious Verethragna",
+        "name": "Zoroa, the Magistus Verethragna",
         "type": "Monster",
         "Type line": "Fusion Effect Monster",
         "cost": 0,

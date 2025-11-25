@@ -28,7 +28,8 @@
         "title": "Domain Format",
         "gameplay": "Domain",
         "customCategories": [
-          "Deck Master"
+          "Deck Master",
+          "Extra Deck"
         ]
       }
     ]
@@ -70,11 +71,12 @@
           "Extra_Monster_2",
           "Deck_Master",
           "Field",
-          "Empty"
+          "Empty",
+          "Extra_Deck"
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "column",
@@ -107,9 +109,13 @@
                     {
                       "section": "Deck_Master",
                       "style": false
+                    },
+                    {
+                      "section": "Extra_Deck",
+                      "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 },
                 {
                   "direction": "row",
@@ -136,7 +142,7 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 },
                 {
                   "direction": "row",
@@ -163,15 +169,16 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck Master->Deck_Master"
+          "Deck Master->Deck_Master",
+          "Extra Deck->Extra_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
@@ -403,6 +410,13 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
+          },
+          "Extra_Deck": {
+            "title": "Extra_Deck",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "DECK",
+            "displayedTitle": "Extra deck"
           }
         }
       }

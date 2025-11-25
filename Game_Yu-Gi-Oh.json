@@ -414,7 +414,7 @@
           "Extra_Deck": {
             "title": "Extra_Deck",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "DECK",
             "displayedTitle": "Extra deck"
           }

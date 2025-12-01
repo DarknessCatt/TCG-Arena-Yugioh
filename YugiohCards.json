@@ -57862,6 +57862,28 @@
         "level": 3,
         "attribute": "DARK"
     },
+    "92171126": {
+        "id": 92171126,
+        "face": {
+            "front": {
+                "name": "Deftero Enneacraft - \"alazoneIA\"",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/92171126.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Deftero Enneacraft - \"alazoneIA\"",
+        "type": "Monster",
+        "Type line": "Pendulum Flip Effect Monster",
+        "cost": 0,
+        "archetype": "Enneacraft",
+        "race": "Machine",
+        "atk": 100,
+        "def": 1000,
+        "level": 1,
+        "attribute": "EARTH"
+    },
     "37421075": {
         "id": 37421075,
         "face": {
@@ -60341,7 +60363,7 @@
         },
         "name": "Deus X-Krawler",
         "type": "Monster",
-        "Type line": "Effect Monster",
+        "Type line": "Flip Effect Monster",
         "cost": 0,
         "archetype": "Krawler",
         "race": "Insect",
@@ -67446,7 +67468,7 @@
         "race": "Dragon",
         "atk": 2400,
         "def": 1500,
-        "level": null,
+        "level": 6,
         "attribute": "LIGHT"
     },
     "80208225": {
@@ -73831,6 +73853,28 @@
         "Type line": "Equip Spell",
         "cost": 0
     },
+    "29570824": {
+        "id": 29570824,
+        "face": {
+            "front": {
+                "name": "Ekto Enneacraft - \"tromarIA\"",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/29570824.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ekto Enneacraft - \"tromarIA\"",
+        "type": "Monster",
+        "Type line": "Pendulum Flip Effect Monster",
+        "cost": 0,
+        "archetype": "Enneacraft",
+        "race": "Machine",
+        "atk": 100,
+        "def": 1000,
+        "level": 1,
+        "attribute": "EARTH"
+    },
     "92379223": {
         "id": 92379223,
         "face": {
@@ -77664,6 +77708,28 @@
         "Type line": "Continuous Spell",
         "cost": 0
     },
+    "55965529": {
+        "id": 55965529,
+        "face": {
+            "front": {
+                "name": "Enato Enneacraft - \"oknirIA\"",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/55965529.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Enato Enneacraft - \"oknirIA\"",
+        "type": "Monster",
+        "Type line": "Pendulum Flip Effect Monster",
+        "cost": 0,
+        "archetype": "Enneacraft",
+        "race": "Machine",
+        "atk": 100,
+        "def": 1000,
+        "level": 1,
+        "attribute": "EARTH"
+    },
     "96355986": {
         "id": 96355986,
         "face": {
@@ -78212,14 +78278,14 @@
         "id": 82359538,
         "face": {
             "front": {
-                "name": "Enneacraft - Aiza\u03b2.LEON",
+                "name": "Enneacraft - Aiza.LEON",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/82359538.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneacraft - Aiza\u03b2.LEON",
+        "name": "Enneacraft - Aiza.LEON",
         "type": "Monster",
         "Type line": "Pendulum Flip Effect Monster",
         "cost": 0,
@@ -78234,14 +78300,14 @@
         "id": 81237046,
         "face": {
             "front": {
-                "name": "Enneacraft - Archa\u03b7.TAIL",
+                "name": "Enneacraft - Archa.TAIL",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/81237046.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneacraft - Archa\u03b7.TAIL",
+        "name": "Enneacraft - Archa.TAIL",
         "type": "Monster",
         "Type line": "Pendulum Flip Effect Monster",
         "cost": 0,
@@ -78256,14 +78322,14 @@
         "id": 28454232,
         "face": {
             "front": {
-                "name": "Enneacraft - Asta\u03b3.PIXIEA",
+                "name": "Enneacraft - Asta.PIXEA",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/28454232.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneacraft - Asta\u03b3.PIXIEA",
+        "name": "Enneacraft - Asta.PIXEA",
         "type": "Monster",
         "Type line": "Pendulum Flip Effect Monster",
         "cost": 0,
@@ -78278,14 +78344,14 @@
         "id": 54842941,
         "face": {
             "front": {
-                "name": "Enneacraft - Atori\u03dd.MAR",
+                "name": "Enneacraft - Atori.MAR",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/54842941.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneacraft - Atori\u03dd.MAR",
+        "name": "Enneacraft - Atori.MAR",
         "type": "Monster",
         "Type line": "Pendulum Flip Effect Monster",
         "cost": 0,
@@ -78296,140 +78362,52 @@
         "level": 9,
         "attribute": "LIGHT"
     },
-    "80015408": {
-        "id": 80015408,
-        "face": {
-            "front": {
-                "name": "Enneacraft - Rebirth",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/80015408.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Enneacraft - Rebirth",
-        "type": "Spell",
-        "Type line": "Normal Spell",
-        "cost": 0,
-        "archetype": "Enneacraft"
-    },
     "54020393": {
         "id": 54020393,
         "face": {
             "front": {
-                "name": "Enneacraft - Release",
+                "name": "Enneacraft Release",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/54020393.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneacraft - Release",
+        "name": "Enneacraft Release",
         "type": "Spell",
         "Type line": "Normal Spell",
         "cost": 0,
         "archetype": "Enneacraft"
     },
-    "56187077": {
-        "id": 56187077,
+    "80015408": {
+        "id": 80015408,
         "face": {
             "front": {
-                "name": "Enneacraft \u03b1' \"orgIA\"",
-                "type": "Monster",
+                "name": "Enneacraft Reverth",
+                "type": "Spell",
                 "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/56187077.jpg",
+                "image": "https://images.ygoprodeck.com/images/cards/80015408.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneacraft \u03b1' \"orgIA\"",
-        "type": "Monster",
-        "Type line": "Pendulum Flip Effect Monster",
+        "name": "Enneacraft Reverth",
+        "type": "Spell",
+        "Type line": "Normal Spell",
         "cost": 0,
-        "archetype": "Enneacraft",
-        "race": "Machine",
-        "atk": 100,
-        "def": 1000,
-        "level": 1,
-        "attribute": "EARTH"
-    },
-    "92171126": {
-        "id": 92171126,
-        "face": {
-            "front": {
-                "name": "Enneacraft \u03b2' \"alazoneIA\"",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/92171126.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Enneacraft \u03b2' \"alazoneIA\"",
-        "type": "Monster",
-        "Type line": "Pendulum Flip Effect Monster",
-        "cost": 0,
-        "archetype": "Enneacraft",
-        "race": "Machine",
-        "atk": 100,
-        "def": 1000,
-        "level": 1,
-        "attribute": "EARTH"
-    },
-    "29570824": {
-        "id": 29570824,
-        "face": {
-            "front": {
-                "name": "Enneacraft \u03dd' \"tromarIA\"",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/29570824.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Enneacraft \u03dd' \"tromarIA\"",
-        "type": "Monster",
-        "Type line": "Pendulum Flip Effect Monster",
-        "cost": 0,
-        "archetype": "Enneacraft",
-        "race": "Machine",
-        "atk": 100,
-        "def": 1000,
-        "level": 1,
-        "attribute": "EARTH"
-    },
-    "55965529": {
-        "id": 55965529,
-        "face": {
-            "front": {
-                "name": "Enneacraft \u03b8' \"oknirIA\"",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/55965529.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Enneacraft \u03b8' \"oknirIA\"",
-        "type": "Monster",
-        "Type line": "Pendulum Flip Effect Monster",
-        "cost": 0,
-        "archetype": "Enneacraft",
-        "race": "Machine",
-        "atk": 100,
-        "def": 1000,
-        "level": 1,
-        "attribute": "EARTH"
+        "archetype": "Enneacraft"
     },
     "17621695": {
         "id": 17621695,
         "face": {
             "front": {
-                "name": "Enneapolis, the Sinquisition City",
+                "name": "Enneapolis",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/17621695.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Enneapolis, the Sinquisition City",
+        "name": "Enneapolis",
         "type": "Spell",
         "Type line": "Field Spell",
         "cost": 0,
@@ -114464,40 +114442,18 @@
         "level": 7,
         "attribute": "DARK"
     },
-    "68144894": {
-        "id": 68144894,
-        "face": {
-            "front": {
-                "name": "Hecahands Goddus",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/68144894.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Hecahands Goddus",
-        "type": "Monster",
-        "Type line": "Effect Monster",
-        "cost": 0,
-        "archetype": "Hecahands",
-        "race": "Illusion",
-        "atk": 2300,
-        "def": 2000,
-        "level": 7,
-        "attribute": "DARK"
-    },
     "95132593": {
         "id": 95132593,
         "face": {
             "front": {
-                "name": "Hecahands Gygas",
+                "name": "Hecahands Gaigas",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/95132593.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Hecahands Gygas",
+        "name": "Hecahands Gaigas",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -114508,18 +114464,40 @@
         "level": 7,
         "attribute": "DARK"
     },
+    "68144894": {
+        "id": 68144894,
+        "face": {
+            "front": {
+                "name": "Hecahands Godos",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/68144894.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hecahands Godos",
+        "type": "Monster",
+        "Type line": "Effect Monster",
+        "cost": 0,
+        "archetype": "Hecahands",
+        "race": "Illusion",
+        "atk": 2300,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK"
+    },
     "95365081": {
         "id": 95365081,
         "face": {
             "front": {
-                "name": "Hecahands Ibel",
+                "name": "Hecahands Ibtel",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/95365081.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Hecahands Ibel",
+        "name": "Hecahands Ibtel",
         "type": "Monster",
         "Type line": "Effect Monster",
         "cost": 0,
@@ -114534,14 +114512,14 @@
         "id": 67021206,
         "face": {
             "front": {
-                "name": "Hecahands Jawza",
+                "name": "Hecahands Jauzah",
                 "type": "Monster",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/67021206.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Hecahands Jawza",
+        "name": "Hecahands Jauzah",
         "type": "Monster",
         "Type line": "Fusion Effect Monster",
         "cost": 0,
@@ -114556,14 +114534,14 @@
         "id": 57809669,
         "face": {
             "front": {
-                "name": "Hecahands Tartarus",
+                "name": "Hecahands Tartaros",
                 "type": "Spell",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/57809669.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Hecahands Tartarus",
+        "name": "Hecahands Tartaros",
         "type": "Spell",
         "Type line": "Quick-Play Spell",
         "cost": 0,
@@ -119755,6 +119733,23 @@
         "def": null,
         "level": null,
         "attribute": "WATER"
+    },
+    "93294363": {
+        "id": 93294363,
+        "face": {
+            "front": {
+                "name": "Ib'al-Hecahands",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/93294363.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ib'al-Hecahands",
+        "type": "Trap",
+        "Type line": "Counter Trap",
+        "cost": 0,
+        "archetype": "Hecahands"
     },
     "62411042": {
         "id": 62411042,
@@ -125354,23 +125349,6 @@
         "level": 2,
         "attribute": "EARTH"
     },
-    "93294363": {
-        "id": 93294363,
-        "face": {
-            "front": {
-                "name": "Ipt al Hecahands",
-                "type": "Trap",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/93294363.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Ipt al Hecahands",
-        "type": "Trap",
-        "Type line": "Counter Trap",
-        "cost": 0,
-        "archetype": "Hecahands"
-    },
     "9628664": {
         "id": 9628664,
         "face": {
@@ -126872,6 +126850,23 @@
         "level": 10,
         "attribute": "LIGHT"
     },
+    "14442329": {
+        "id": 14442329,
+        "face": {
+            "front": {
+                "name": "JJ \"Kewl Tune\"",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/14442329.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "JJ \"Kewl Tune\"",
+        "type": "Spell",
+        "Type line": "Field Spell",
+        "cost": 0,
+        "archetype": "Kewl Tune"
+    },
     "55337339": {
         "id": 55337339,
         "face": {
@@ -127318,23 +127313,6 @@
         "def": 2600,
         "level": 8,
         "attribute": "LIGHT"
-    },
-    "14442329": {
-        "id": 14442329,
-        "face": {
-            "front": {
-                "name": "Juke Joint \"Killer Tune\"",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/14442329.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Juke Joint \"Killer Tune\"",
-        "type": "Spell",
-        "Type line": "Field Spell",
-        "cost": 0,
-        "archetype": "Killer Tune"
     },
     "42851643": {
         "id": 42851643,
@@ -131006,6 +130984,216 @@
         "level": 8,
         "attribute": "LIGHT"
     },
+    "43904702": {
+        "id": 43904702,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Clip",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/43904702.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Clip",
+        "type": "Monster",
+        "Type line": "Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Thunder",
+        "atk": 800,
+        "def": 1000,
+        "level": 2,
+        "attribute": "DARK"
+    },
+    "16387555": {
+        "id": 16387555,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Cue",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/16387555.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Cue",
+        "type": "Monster",
+        "Type line": "Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Fairy",
+        "atk": 900,
+        "def": 1900,
+        "level": 3,
+        "attribute": "LIGHT"
+    },
+    "41069676": {
+        "id": 41069676,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Loudness War",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/41069676.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Loudness War",
+        "type": "Monster",
+        "Type line": "Synchro Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Machine",
+        "atk": 0,
+        "def": 3000,
+        "level": 6,
+        "attribute": "LIGHT"
+    },
+    "16509007": {
+        "id": 16509007,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Mix",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/16509007.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Mix",
+        "type": "Monster",
+        "Type line": "Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Warrior",
+        "atk": 100,
+        "def": 2000,
+        "level": 2,
+        "attribute": "WIND"
+    },
+    "40847034": {
+        "id": 40847034,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Playlist",
+                "type": "Trap",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/40847034.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Playlist",
+        "type": "Trap",
+        "Type line": "Normal Trap",
+        "cost": 0,
+        "archetype": "Kewl Tune"
+    },
+    "89392810": {
+        "id": 89392810,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Reco",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/89392810.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Reco",
+        "type": "Monster",
+        "Type line": "Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE"
+    },
+    "88170262": {
+        "id": 88170262,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Remix",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/88170262.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Remix",
+        "type": "Monster",
+        "Type line": "Synchro Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 2000,
+        "level": 5,
+        "attribute": "DARK"
+    },
+    "15665977": {
+        "id": 15665977,
+        "face": {
+            "front": {
+                "name": "Kewl Tune RS",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/15665977.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune RS",
+        "type": "Monster",
+        "Type line": "Synchro Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Fiend",
+        "atk": 1700,
+        "def": 2400,
+        "level": 5,
+        "attribute": "DARK"
+    },
+    "78058681": {
+        "id": 78058681,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Synchro",
+                "type": "Spell",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/78058681.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Synchro",
+        "type": "Spell",
+        "Type line": "Quick-Play Spell",
+        "cost": 0,
+        "archetype": "Kewl Tune"
+    },
+    "42781164": {
+        "id": 42781164,
+        "face": {
+            "front": {
+                "name": "Kewl Tune Track Maker",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/42781164.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kewl Tune Track Maker",
+        "type": "Monster",
+        "Type line": "Synchro Tuner Effect Monster",
+        "cost": 0,
+        "archetype": "Kewl Tune",
+        "race": "Machine",
+        "atk": 0,
+        "def": 2500,
+        "level": 4,
+        "attribute": "LIGHT"
+    },
     "1929294": {
         "id": 1929294,
         "face": {
@@ -131206,216 +131394,6 @@
         "def": 1000,
         "level": 4,
         "attribute": "WIND"
-    },
-    "43904702": {
-        "id": 43904702,
-        "face": {
-            "front": {
-                "name": "Killer Tune Clip",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/43904702.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Clip",
-        "type": "Monster",
-        "Type line": "Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Thunder",
-        "atk": 800,
-        "def": 1000,
-        "level": 2,
-        "attribute": "DARK"
-    },
-    "16387555": {
-        "id": 16387555,
-        "face": {
-            "front": {
-                "name": "Killer Tune Cue",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/16387555.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Cue",
-        "type": "Monster",
-        "Type line": "Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Fairy",
-        "atk": 900,
-        "def": 1900,
-        "level": 3,
-        "attribute": "LIGHT"
-    },
-    "41069676": {
-        "id": 41069676,
-        "face": {
-            "front": {
-                "name": "Killer Tune Loudness War",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/41069676.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Loudness War",
-        "type": "Monster",
-        "Type line": "Synchro Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Machine",
-        "atk": 0,
-        "def": 3000,
-        "level": 6,
-        "attribute": "LIGHT"
-    },
-    "16509007": {
-        "id": 16509007,
-        "face": {
-            "front": {
-                "name": "Killer Tune Mix",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/16509007.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Mix",
-        "type": "Monster",
-        "Type line": "Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Warrior",
-        "atk": 100,
-        "def": 2000,
-        "level": 2,
-        "attribute": "WIND"
-    },
-    "40847034": {
-        "id": 40847034,
-        "face": {
-            "front": {
-                "name": "Killer Tune Playlist",
-                "type": "Trap",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/40847034.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Playlist",
-        "type": "Trap",
-        "Type line": "Normal Trap",
-        "cost": 0,
-        "archetype": "Killer Tune"
-    },
-    "89392810": {
-        "id": 89392810,
-        "face": {
-            "front": {
-                "name": "Killer Tune Reco",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/89392810.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Reco",
-        "type": "Monster",
-        "Type line": "Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Fiend",
-        "atk": 1500,
-        "def": 800,
-        "level": 3,
-        "attribute": "FIRE"
-    },
-    "15665977": {
-        "id": 15665977,
-        "face": {
-            "front": {
-                "name": "Killer Tune Red Seal",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/15665977.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Red Seal",
-        "type": "Monster",
-        "Type line": "Synchro Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Fiend",
-        "atk": 1700,
-        "def": 2400,
-        "level": 5,
-        "attribute": "DARK"
-    },
-    "88170262": {
-        "id": 88170262,
-        "face": {
-            "front": {
-                "name": "Killer Tune Remix",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/88170262.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Remix",
-        "type": "Monster",
-        "Type line": "Synchro Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Warrior",
-        "atk": 1500,
-        "def": 2000,
-        "level": 5,
-        "attribute": "DARK"
-    },
-    "78058681": {
-        "id": 78058681,
-        "face": {
-            "front": {
-                "name": "Killer Tune Synchro",
-                "type": "Spell",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/78058681.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Synchro",
-        "type": "Spell",
-        "Type line": "Quick-Play Spell",
-        "cost": 0,
-        "archetype": "Killer Tune"
-    },
-    "42781164": {
-        "id": 42781164,
-        "face": {
-            "front": {
-                "name": "Killer Tune Track Maker",
-                "type": "Monster",
-                "cost": 0,
-                "image": "https://images.ygoprodeck.com/images/cards/42781164.jpg",
-                "isHorizontal": false
-            }
-        },
-        "name": "Killer Tune Track Maker",
-        "type": "Monster",
-        "Type line": "Synchro Tuner Effect Monster",
-        "cost": 0,
-        "archetype": "Killer Tune",
-        "race": "Machine",
-        "atk": 0,
-        "def": 2500,
-        "level": 4,
-        "attribute": "LIGHT"
     },
     "63972571": {
         "id": 63972571,
@@ -145816,7 +145794,7 @@
         },
         "name": "Magikey Beast - Ansyalabolas",
         "type": "Monster",
-        "Type line": "Fusion Effect Monster",
+        "Type line": "Fusion Tuner Effect Monster",
         "cost": 0,
         "archetype": "Magikey",
         "race": "Beast",
@@ -146138,7 +146116,7 @@
         },
         "name": "Magistus Chorozo",
         "type": "Monster",
-        "Type line": "Fusion Effect Monster",
+        "Type line": "Fusion Tuner Effect Monster",
         "cost": 0,
         "archetype": "Magistus",
         "race": "Spellcaster",
@@ -151241,7 +151219,7 @@
         "race": "Dragon",
         "atk": 2000,
         "def": 2000,
-        "level": null,
+        "level": 3,
         "attribute": "WATER"
     },
     "37426272": {
@@ -190047,6 +190025,28 @@
         "level": 1,
         "attribute": "LIGHT"
     },
+    "56187077": {
+        "id": 56187077,
+        "face": {
+            "front": {
+                "name": "Proto Enneacraft - \"orgIA\"",
+                "type": "Monster",
+                "cost": 0,
+                "image": "https://images.ygoprodeck.com/images/cards/56187077.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Proto Enneacraft - \"orgIA\"",
+        "type": "Monster",
+        "Type line": "Pendulum Flip Effect Monster",
+        "cost": 0,
+        "archetype": "Enneacraft",
+        "race": "Machine",
+        "atk": 100,
+        "def": 1000,
+        "level": 1,
+        "attribute": "EARTH"
+    },
     "26439287": {
         "id": 26439287,
         "face": {
@@ -219187,7 +219187,7 @@
         },
         "name": "Sky Striker Mecharmory - Hercules Base",
         "type": "Spell",
-        "Type line": "Normal Spell",
+        "Type line": "Equip Spell",
         "cost": 0,
         "archetype": "Sky Striker"
     },
@@ -254023,7 +254023,7 @@
         },
         "name": "Turbo-Tainted Hot Rod GT19",
         "type": "Monster",
-        "Type line": "Flip Effect Monster",
+        "Type line": "Flip Tuner Effect Monster",
         "cost": 0,
         "race": "Machine",
         "atk": 500,
@@ -273849,14 +273849,14 @@
         "id": 29792472,
         "face": {
             "front": {
-                "name": "Yad al Hecahands",
+                "name": "Yad'al-Hecahands",
                 "type": "Trap",
                 "cost": 0,
                 "image": "https://images.ygoprodeck.com/images/cards/29792472.jpg",
                 "isHorizontal": false
             }
         },
-        "name": "Yad al Hecahands",
+        "name": "Yad'al-Hecahands",
         "type": "Trap",
         "Type line": "Counter Trap",
         "cost": 0,
